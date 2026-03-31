@@ -1,0 +1,10 @@
+[
+  {
+    "chunk_id": "ef79ab1e-a411-4acf-b658-e85f1e498ccd",
+    "text": "Student Details Report ID Name Course Year Branch Email Phone Attendance (%) Avg Marks Placement S101 Aarav Sharma B.Tech 3 CSE aarav.sharma@example.com 9876543210 85 78 Placed S102 Diya Verma B.Tech 2 IT diya.verma@example.com 9876543211 90 82 Not Placed S103 Rohan Gupta B.Tech 4 Mechanical rohan.gupta@example.com 9876543212 75 70 Placed S104 Ananya Singh B.Tech 1 CSE ananya.singh@example.com 9876543213 88 80 Not Placed S105 Vikram Patel B.Tech 3 Civil vikram.patel@example.com 9876543214 65 68 Not Placed S106 Meera Joshi B.Tech 4 IT meera.joshi@example.com 9876543215 92 85 Placed S107 Karan Mehta B.Tech 2 CSE karan.mehta@example.com 9876543216 78 74 Not Placed S108 Priya Nair B.Tech 3 Electronics priya.nair@example.com 9876543217 84 79 Placed S109 Arjun Reddy B.Tech 4 CSE arjun.reddy@example.com 9876543218 88 83 Placed S110 Sneha Kapoor B.Tech 1 IT sneha.kapoor@example.com 9876543219 91 87 Not Placed",
+    "source_file": "student_details_fixed.pdf",
+    "company": "Amazon",
+    "word_start": 0,
+    "numeric_id": 1
+  }
+]

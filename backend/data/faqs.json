@@ -1,0 +1,2730 @@
+[
+  {
+    "id": "f001",
+    "question": "How can I track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "category": "Orders",
+    "company": "Amazon",
+    "tags": [
+      "tracking",
+      "order",
+      "delivery"
+    ],
+    "hit_count": 21
+  },
+  {
+    "id": "f002",
+    "question": "How do I return a product on Amazon?",
+    "answer": "Go to Your Orders → select the item → click 'Return or Replace Items' → choose the reason and submit. A return label will be emailed to you.",
+    "category": "Returns",
+    "company": "Amazon",
+    "tags": [
+      "return",
+      "refund",
+      "replace"
+    ],
+    "hit_count": 3
+  },
+  {
+    "id": "f003",
+    "question": "What is Amazon's refund policy?",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "category": "Billing",
+    "company": "Amazon",
+    "tags": [
+      "refund",
+      "billing",
+      "policy"
+    ],
+    "hit_count": 13
+  },
+  {
+    "id": "f004",
+    "question": "How do I reset my Amazon account password?",
+    "answer": "Go to Amazon.in → click 'Sign In' → 'Forgot your password?' → enter your email or mobile number → follow the OTP instructions.",
+    "category": "Account",
+    "company": "Amazon",
+    "tags": [
+      "password",
+      "reset",
+      "account"
+    ],
+    "hit_count": 2
+  },
+  {
+    "id": "f005",
+    "question": "How can I contact Amazon customer support?",
+    "answer": "You can contact Amazon support via: 1) Help → Contact Us on the website  2) Amazon app → Menu → Customer Service  3) Phone: 1800-3000-9009 (toll free)",
+    "category": "Support",
+    "company": "Amazon",
+    "tags": [
+      "contact",
+      "support",
+      "help"
+    ],
+    "hit_count": 5
+  },
+  {
+    "id": "f006",
+    "question": "How do I track my Flipkart order?",
+    "answer": "Open the Flipkart app or website → My Orders → select your order → click 'Track'. You'll see live courier updates.",
+    "category": "Orders",
+    "company": "Flipkart",
+    "tags": [
+      "tracking",
+      "order",
+      "delivery"
+    ],
+    "hit_count": 2
+  },
+  {
+    "id": "f007",
+    "question": "What is Flipkart's return policy?",
+    "answer": "Flipkart offers a 7-day return window on most products. To initiate, go to My Orders → select item → 'Return'. The pick-up is scheduled within 1–2 business days.",
+    "category": "Returns",
+    "company": "Flipkart",
+    "tags": [
+      "return",
+      "refund",
+      "policy"
+    ],
+    "hit_count": 2
+  },
+  {
+    "id": "f008",
+    "question": "How to cancel an order on Flipkart?",
+    "answer": "Go to My Orders on Flipkart → select the order → tap 'Cancel'. You can cancel before the order is shipped. Refund is processed within 7 business days.",
+    "category": "Orders",
+    "company": "Flipkart",
+    "tags": [
+      "cancel",
+      "order"
+    ],
+    "hit_count": 3
+  },
+  {
+    "id": "f011",
+    "question": "How can I track my Myntra delivery?",
+    "answer": "Open Myntra → My Orders → click the order → 'Track Shipment'. You will see real-time courier status.",
+    "category": "Orders",
+    "company": "Myntra",
+    "tags": [
+      "tracking",
+      "delivery",
+      "order"
+    ],
+    "hit_count": 0
+  },
+  {
+    "id": "f012",
+    "question": "What sizes are available on Myntra?",
+    "answer": "Myntra stocks sizes XS to 5XL for clothing. Each product page shows a size chart. Use the 'Size & Fit' section for measurements.",
+    "category": "Products",
+    "company": "Myntra",
+    "tags": [
+      "size",
+      "fitting",
+      "clothing"
+    ],
+    "hit_count": 0
+  },
+  {
+    "id": "20f9e7ff-19c3-4ee4-a44b-9e53ca6a8ed4",
+    "question": "[Amazon] Can I share my account?",
+    "answer": "Account sharing policies vary. Please check the Terms of Service.",
+    "category": "General",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.412154"
+  },
+  {
+    "id": "0f83a43e-149b-41f4-823b-862064491acb",
+    "question": "[Microsoft] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Microsoft",
+    "tags": [
+      "microsoft",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.428920"
+  },
+  {
+    "id": "b04a87d6-1030-46bf-8dd4-fcee678f6e85",
+    "question": "[Microsoft] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Microsoft",
+    "tags": [
+      "microsoft",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.444571"
+  },
+  {
+    "id": "1075ccf3-23c3-48a5-8a85-50e8a8876e53",
+    "question": "[Microsoft] How do I contact support?",
+    "answer": "You can reach us at support@microsoft.com or call 1-800-123-4567.",
+    "category": "Technical Support",
+    "company": "Microsoft",
+    "tags": [
+      "microsoft",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.465842"
+  },
+  {
+    "id": "a33eeccf-e183-4d7d-a240-cc9ea23daa63",
+    "question": "[Microsoft] Can I get a refund?",
+    "answer": "Refunds are processed within 5-7 business days if applicable.",
+    "category": "Shipping & Delivery",
+    "company": "Microsoft",
+    "tags": [
+      "microsoft",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.486195"
+  },
+  {
+    "id": "383f0e8d-6aa8-45f7-8d0f-b8264a139149",
+    "question": "[Microsoft] How do I close my account?",
+    "answer": "Navigate to account settings and select 'Deactivate Account'.",
+    "category": "General",
+    "company": "Microsoft",
+    "tags": [
+      "microsoft",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.499008"
+  },
+  {
+    "id": "efe95603-0f35-4e67-be42-032eaef3a7af",
+    "question": "[Microsoft] What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, AMEX, and PayPal.",
+    "category": "Accounts",
+    "company": "Microsoft",
+    "tags": [
+      "microsoft",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.521813"
+  },
+  {
+    "id": "ed5aec51-efe3-4e03-86d3-147e23a8e661",
+    "question": "[Microsoft] Is there a mobile app?",
+    "answer": "Yes, you can download the microsoft app from iOS and Android stores.",
+    "category": "Billing",
+    "company": "Microsoft",
+    "tags": [
+      "microsoft",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.543097"
+  },
+  {
+    "id": "3da5abb6-8305-4eec-a6ce-cba5274be431",
+    "question": "[Microsoft] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Technical Support",
+    "company": "Microsoft",
+    "tags": [
+      "microsoft",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.565525"
+  },
+  {
+    "id": "0f4fea39-1651-41cc-b605-2a09826ea78f",
+    "question": "[Microsoft] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds or expired cards.",
+    "category": "Shipping & Delivery",
+    "company": "Microsoft",
+    "tags": [
+      "microsoft",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.587550"
+  },
+  {
+    "id": "11d69502-47d4-482f-b621-0b93df5d9f87",
+    "question": "[Microsoft] Can I share my account?",
+    "answer": "Account sharing policies vary. Please check the Terms of Service.",
+    "category": "General",
+    "company": "Microsoft",
+    "tags": [
+      "microsoft",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.601330"
+  },
+  {
+    "id": "31476c63-5ea4-4afc-8d4c-8ff8c48d238c",
+    "question": "[Google] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Google",
+    "tags": [
+      "google",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.615016"
+  },
+  {
+    "id": "34ce6371-241b-430e-b940-7064075c56b7",
+    "question": "[Google] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Google",
+    "tags": [
+      "google",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.628769"
+  },
+  {
+    "id": "64565b45-bc60-4e2b-9135-bbb4452f0721",
+    "question": "[Google] How do I contact support?",
+    "answer": "You can reach us at support@google.com or call 1-800-123-4567.",
+    "category": "Technical Support",
+    "company": "Google",
+    "tags": [
+      "google",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.649996"
+  },
+  {
+    "id": "9b0ed713-45f8-4f04-835f-5839638472f7",
+    "question": "[Google] Can I get a refund?",
+    "answer": "Refunds are processed within 5-7 business days if applicable.",
+    "category": "Shipping & Delivery",
+    "company": "Google",
+    "tags": [
+      "google",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.672505"
+  },
+  {
+    "id": "7b93d06a-ca56-4001-b8e6-040bd597909f",
+    "question": "[Google] How do I close my account?",
+    "answer": "Navigate to account settings and select 'Deactivate Account'.",
+    "category": "General",
+    "company": "Google",
+    "tags": [
+      "google",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.694052"
+  },
+  {
+    "id": "dc4b2c90-89ca-418b-ae21-99fed47d0960",
+    "question": "[Google] What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, AMEX, and PayPal.",
+    "category": "Accounts",
+    "company": "Google",
+    "tags": [
+      "google",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.720072"
+  },
+  {
+    "id": "b8fe324e-3928-4e5e-8839-3d0dbdb9ed8b",
+    "question": "[Google] Is there a mobile app?",
+    "answer": "Yes, you can download the google app from iOS and Android stores.",
+    "category": "Billing",
+    "company": "Google",
+    "tags": [
+      "google",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.744100"
+  },
+  {
+    "id": "ee00a087-b546-4a00-b102-9f548a259e0a",
+    "question": "[Google] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Technical Support",
+    "company": "Google",
+    "tags": [
+      "google",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.762787"
+  },
+  {
+    "id": "a6bcdf0d-c611-47e8-ba66-bb8fe403f102",
+    "question": "[Google] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds or expired cards.",
+    "category": "Shipping & Delivery",
+    "company": "Google",
+    "tags": [
+      "google",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.785961"
+  },
+  {
+    "id": "88eabe58-35b5-4368-838d-534fb679f0e2",
+    "question": "[Google] Can I share my account?",
+    "answer": "Account sharing policies vary. Please check the Terms of Service.",
+    "category": "General",
+    "company": "Google",
+    "tags": [
+      "google",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.809126"
+  },
+  {
+    "id": "1fee7f8a-67ed-497e-a363-298e7c6d0e9f",
+    "question": "[Apple] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Apple",
+    "tags": [
+      "apple",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.830607"
+  },
+  {
+    "id": "b442dbf5-28c1-4d48-9415-15e3afc6562a",
+    "question": "[Apple] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Apple",
+    "tags": [
+      "apple",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.858879"
+  },
+  {
+    "id": "c3a08c1c-34f6-4967-86fe-99ad808aa7d3",
+    "question": "[Apple] How do I contact support?",
+    "answer": "You can reach us at support@apple.com or call 1-800-123-4567.",
+    "category": "Technical Support",
+    "company": "Apple",
+    "tags": [
+      "apple",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.881963"
+  },
+  {
+    "id": "daa21f8a-53f1-4c3f-a922-a168c7bbfe16",
+    "question": "[Apple] Can I get a refund?",
+    "answer": "Refunds are processed within 5-7 business days if applicable.",
+    "category": "Shipping & Delivery",
+    "company": "Apple",
+    "tags": [
+      "apple",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.904900"
+  },
+  {
+    "id": "fcd915aa-542d-414b-a7c6-d2e71a6b1a9e",
+    "question": "[Apple] How do I close my account?",
+    "answer": "Navigate to account settings and select 'Deactivate Account'.",
+    "category": "General",
+    "company": "Apple",
+    "tags": [
+      "apple",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.931178"
+  },
+  {
+    "id": "72be9130-fa1d-4e78-be91-61b713bc43b3",
+    "question": "[Apple] What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, AMEX, and PayPal.",
+    "category": "Accounts",
+    "company": "Apple",
+    "tags": [
+      "apple",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.954576"
+  },
+  {
+    "id": "937f38f3-8ba5-4da1-89cb-457da083a4b1",
+    "question": "[Apple] Is there a mobile app?",
+    "answer": "Yes, you can download the apple app from iOS and Android stores.",
+    "category": "Billing",
+    "company": "Apple",
+    "tags": [
+      "apple",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.979347"
+  },
+  {
+    "id": "aa411068-f83c-4188-8901-07c0701c19a7",
+    "question": "[Apple] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Technical Support",
+    "company": "Apple",
+    "tags": [
+      "apple",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:41.997050"
+  },
+  {
+    "id": "055e8748-8cf3-4129-952d-cf11cf960707",
+    "question": "[Apple] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds or expired cards.",
+    "category": "Shipping & Delivery",
+    "company": "Apple",
+    "tags": [
+      "apple",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.014067"
+  },
+  {
+    "id": "2f611f97-3415-49fd-ac9a-1036d288227c",
+    "question": "[Apple] Can I share my account?",
+    "answer": "Account sharing policies vary. Please check the Terms of Service.",
+    "category": "General",
+    "company": "Apple",
+    "tags": [
+      "apple",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.039687"
+  },
+  {
+    "id": "70c2a939-9bbd-49d5-b88d-90db913b7c89",
+    "question": "[Meta] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Meta",
+    "tags": [
+      "meta",
+      "accounts"
+    ],
+    "hit_count": 1,
+    "created_at": "2026-03-14T04:21:42.065046"
+  },
+  {
+    "id": "832587ec-22ac-4f3e-b22a-59e8d7f8f14b",
+    "question": "[Meta] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Meta",
+    "tags": [
+      "meta",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.091671"
+  },
+  {
+    "id": "a400a31d-bdfb-400c-8038-c1bf66a4c7e0",
+    "question": "[Meta] How do I contact support?",
+    "answer": "You can reach us at support@meta.com or call 1-800-123-4567.",
+    "category": "Technical Support",
+    "company": "Meta",
+    "tags": [
+      "meta",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.116972"
+  },
+  {
+    "id": "09e8d9dc-d042-40e3-8bb9-54c5058fa880",
+    "question": "[Meta] Can I get a refund?",
+    "answer": "Refunds are processed within 5-7 business days if applicable.",
+    "category": "Shipping & Delivery",
+    "company": "Meta",
+    "tags": [
+      "meta",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.140338"
+  },
+  {
+    "id": "33c58f89-d552-4b57-a7a2-fc1502637829",
+    "question": "[Meta] How do I close my account?",
+    "answer": "Navigate to account settings and select 'Deactivate Account'.",
+    "category": "General",
+    "company": "Meta",
+    "tags": [
+      "meta",
+      "general"
+    ],
+    "hit_count": 1,
+    "created_at": "2026-03-14T04:21:42.167883"
+  },
+  {
+    "id": "25d9cd10-81a1-43b2-99ff-7389960af9ba",
+    "question": "[Meta] What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, AMEX, and PayPal.",
+    "category": "Accounts",
+    "company": "Meta",
+    "tags": [
+      "meta",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.191654"
+  },
+  {
+    "id": "a90cdc83-d677-4909-931f-ba6de1b31d23",
+    "question": "[Meta] Is there a mobile app?",
+    "answer": "Yes, you can download the meta app from iOS and Android stores.",
+    "category": "Billing",
+    "company": "Meta",
+    "tags": [
+      "meta",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.214004"
+  },
+  {
+    "id": "4846febb-c6f5-4448-a08f-8a764f7d8b01",
+    "question": "[Meta] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Technical Support",
+    "company": "Meta",
+    "tags": [
+      "meta",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.235694"
+  },
+  {
+    "id": "4b674083-e766-41ca-8c46-8849c7c759b5",
+    "question": "[Meta] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds or expired cards.",
+    "category": "Shipping & Delivery",
+    "company": "Meta",
+    "tags": [
+      "meta",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.260008"
+  },
+  {
+    "id": "f7213424-93f7-41ef-af82-eacb26336420",
+    "question": "[Meta] Can I share my account?",
+    "answer": "Account sharing policies vary. Please check the Terms of Service.",
+    "category": "General",
+    "company": "Meta",
+    "tags": [
+      "meta",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.275346"
+  },
+  {
+    "id": "b7fae3fb-b31c-43c0-8a55-052123d3fdcc",
+    "question": "[Netflix] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Netflix",
+    "tags": [
+      "netflix",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.292271"
+  },
+  {
+    "id": "2d83f6fc-b611-4f92-a151-43dff3af61fa",
+    "question": "[Netflix] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Netflix",
+    "tags": [
+      "netflix",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.312516"
+  },
+  {
+    "id": "ba575499-264e-4402-95fd-d05d196a72ad",
+    "question": "[Netflix] How do I contact support?",
+    "answer": "You can reach us at support@netflix.com or call 1-800-123-4567.",
+    "category": "Technical Support",
+    "company": "Netflix",
+    "tags": [
+      "netflix",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.333342"
+  },
+  {
+    "id": "1beb96fa-5650-45c8-8478-ef1e787f79d3",
+    "question": "[Netflix] Can I get a refund?",
+    "answer": "Refunds are processed within 5-7 business days if applicable.",
+    "category": "Shipping & Delivery",
+    "company": "Netflix",
+    "tags": [
+      "netflix",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.357591"
+  },
+  {
+    "id": "3111f8c8-2256-494b-8dcd-cbd510a6e298",
+    "question": "[Netflix] How do I close my account?",
+    "answer": "Navigate to account settings and select 'Deactivate Account'.",
+    "category": "General",
+    "company": "Netflix",
+    "tags": [
+      "netflix",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.373163"
+  },
+  {
+    "id": "a54c8742-f758-4c61-8e4d-decc831453d4",
+    "question": "[Netflix] What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, AMEX, and PayPal.",
+    "category": "Accounts",
+    "company": "Netflix",
+    "tags": [
+      "netflix",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.395086"
+  },
+  {
+    "id": "1ea2da88-ef67-4071-95e7-1ade84fae0a4",
+    "question": "[Netflix] Is there a mobile app?",
+    "answer": "Yes, you can download the netflix app from iOS and Android stores.",
+    "category": "Billing",
+    "company": "Netflix",
+    "tags": [
+      "netflix",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.418195"
+  },
+  {
+    "id": "240da043-49b8-40db-80ca-4a8c063a6ef3",
+    "question": "[Netflix] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Technical Support",
+    "company": "Netflix",
+    "tags": [
+      "netflix",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.438561"
+  },
+  {
+    "id": "4131c0dd-909a-490b-b3f5-bf96063b94cd",
+    "question": "[Netflix] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds or expired cards.",
+    "category": "Shipping & Delivery",
+    "company": "Netflix",
+    "tags": [
+      "netflix",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.461004"
+  },
+  {
+    "id": "73934c86-c27b-4c24-9624-9b82d69cefeb",
+    "question": "[Netflix] Can I share my account?",
+    "answer": "Account sharing policies vary. Please check the Terms of Service.",
+    "category": "General",
+    "company": "Netflix",
+    "tags": [
+      "netflix",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.474734"
+  },
+  {
+    "id": "a0167927-0dd8-4b61-a6bf-1c36369c5915",
+    "question": "[Tesla] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Tesla",
+    "tags": [
+      "tesla",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.487374"
+  },
+  {
+    "id": "42b60aa0-0fb3-44ad-b8a5-574d49414f77",
+    "question": "[Tesla] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Tesla",
+    "tags": [
+      "tesla",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.511231"
+  },
+  {
+    "id": "9bc0041a-e531-4aa9-aa97-23969afa2f00",
+    "question": "[Tesla] How do I contact support?",
+    "answer": "You can reach us at support@tesla.com or call 1-800-123-4567.",
+    "category": "Technical Support",
+    "company": "Tesla",
+    "tags": [
+      "tesla",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.534407"
+  },
+  {
+    "id": "26b9dc3f-6fbe-4808-abd3-2d069f0168c0",
+    "question": "[Tesla] Can I get a refund?",
+    "answer": "Refunds are processed within 5-7 business days if applicable.",
+    "category": "Shipping & Delivery",
+    "company": "Tesla",
+    "tags": [
+      "tesla",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.555235"
+  },
+  {
+    "id": "1b203f48-3b76-483d-a411-3267f7f4f069",
+    "question": "[Tesla] How do I close my account?",
+    "answer": "Navigate to account settings and select 'Deactivate Account'.",
+    "category": "General",
+    "company": "Tesla",
+    "tags": [
+      "tesla",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.571258"
+  },
+  {
+    "id": "0c9b8d1b-d614-4370-acf8-397553ed320d",
+    "question": "[Tesla] What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, AMEX, and PayPal.",
+    "category": "Accounts",
+    "company": "Tesla",
+    "tags": [
+      "tesla",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.593850"
+  },
+  {
+    "id": "a5a65bf0-fee0-4087-a9f2-c3bc27c052d3",
+    "question": "[Tesla] Is there a mobile app?",
+    "answer": "Yes, you can download the tesla app from iOS and Android stores.",
+    "category": "Billing",
+    "company": "Tesla",
+    "tags": [
+      "tesla",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.615004"
+  },
+  {
+    "id": "9d80cfc9-b3c0-49ee-a07b-9bd768f0df40",
+    "question": "[Tesla] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Technical Support",
+    "company": "Tesla",
+    "tags": [
+      "tesla",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.629921"
+  },
+  {
+    "id": "7ede1116-9714-42aa-b5da-4066185d2878",
+    "question": "[Tesla] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds or expired cards.",
+    "category": "Shipping & Delivery",
+    "company": "Tesla",
+    "tags": [
+      "tesla",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.654696"
+  },
+  {
+    "id": "999c3743-35af-4d7f-af10-c8ce1ce24611",
+    "question": "[Tesla] Can I share my account?",
+    "answer": "Account sharing policies vary. Please check the Terms of Service.",
+    "category": "General",
+    "company": "Tesla",
+    "tags": [
+      "tesla",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.676432"
+  },
+  {
+    "id": "46466493-3375-4698-990a-859121161939",
+    "question": "[Spotify] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Spotify",
+    "tags": [
+      "spotify",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.697848"
+  },
+  {
+    "id": "87be3569-1c44-42af-8f3c-579e2577bb1a",
+    "question": "[Spotify] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Spotify",
+    "tags": [
+      "spotify",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.719664"
+  },
+  {
+    "id": "36b2b3e1-568e-44a0-ab7c-aae8d36122d5",
+    "question": "[Spotify] How do I contact support?",
+    "answer": "You can reach us at support@spotify.com or call 1-800-123-4567.",
+    "category": "Technical Support",
+    "company": "Spotify",
+    "tags": [
+      "spotify",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.744625"
+  },
+  {
+    "id": "4c86e008-6cdc-4b4b-86da-80af99b2327e",
+    "question": "[Spotify] Can I get a refund?",
+    "answer": "Refunds are processed within 5-7 business days if applicable.",
+    "category": "Shipping & Delivery",
+    "company": "Spotify",
+    "tags": [
+      "spotify",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.765226"
+  },
+  {
+    "id": "cfce7e60-8cdc-47e6-81a9-728798abe2c0",
+    "question": "[Spotify] How do I close my account?",
+    "answer": "Navigate to account settings and select 'Deactivate Account'.",
+    "category": "General",
+    "company": "Spotify",
+    "tags": [
+      "spotify",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.786818"
+  },
+  {
+    "id": "dc862b1f-fb4d-4d42-8d24-409e8fa2d02f",
+    "question": "[Spotify] What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, AMEX, and PayPal.",
+    "category": "Accounts",
+    "company": "Spotify",
+    "tags": [
+      "spotify",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.808387"
+  },
+  {
+    "id": "c6190784-4306-4240-b206-439a2a80fb01",
+    "question": "[Spotify] Is there a mobile app?",
+    "answer": "Yes, you can download the spotify app from iOS and Android stores.",
+    "category": "Billing",
+    "company": "Spotify",
+    "tags": [
+      "spotify",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.829507"
+  },
+  {
+    "id": "5aa5cf95-e685-4d29-bb93-9170a00bbba5",
+    "question": "[Spotify] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Technical Support",
+    "company": "Spotify",
+    "tags": [
+      "spotify",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.852089"
+  },
+  {
+    "id": "8cd8b761-7853-4ecd-b425-6eee34dc5cac",
+    "question": "[Spotify] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds or expired cards.",
+    "category": "Shipping & Delivery",
+    "company": "Spotify",
+    "tags": [
+      "spotify",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.875580"
+  },
+  {
+    "id": "3372acaa-5bb1-4d1d-b9e3-a0150401d329",
+    "question": "[Spotify] Can I share my account?",
+    "answer": "Account sharing policies vary. Please check the Terms of Service.",
+    "category": "General",
+    "company": "Spotify",
+    "tags": [
+      "spotify",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.896583"
+  },
+  {
+    "id": "1888f1cb-f54c-4c8e-bf92-14350f53d64b",
+    "question": "[Uber] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Uber",
+    "tags": [
+      "uber",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.922965"
+  },
+  {
+    "id": "6f880455-7dcd-408d-a33d-91c3d29f6459",
+    "question": "[Uber] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Uber",
+    "tags": [
+      "uber",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.949823"
+  },
+  {
+    "id": "9ec01d56-6c0f-4266-972a-86e1c9ab8f73",
+    "question": "[Uber] How do I contact support?",
+    "answer": "You can reach us at support@uber.com or call 1-800-123-4567.",
+    "category": "Technical Support",
+    "company": "Uber",
+    "tags": [
+      "uber",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:42.976078"
+  },
+  {
+    "id": "feb095ee-0c5e-424f-b77b-4f11fda748e7",
+    "question": "[Uber] Can I get a refund?",
+    "answer": "Refunds are processed within 5-7 business days if applicable.",
+    "category": "Shipping & Delivery",
+    "company": "Uber",
+    "tags": [
+      "uber",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.003013"
+  },
+  {
+    "id": "ad1b50cf-864f-4680-aae0-16e527367446",
+    "question": "[Uber] How do I close my account?",
+    "answer": "Navigate to account settings and select 'Deactivate Account'.",
+    "category": "General",
+    "company": "Uber",
+    "tags": [
+      "uber",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.027016"
+  },
+  {
+    "id": "b87071b6-d5a0-4603-97f1-e2007885ee87",
+    "question": "[Uber] What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, AMEX, and PayPal.",
+    "category": "Accounts",
+    "company": "Uber",
+    "tags": [
+      "uber",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.050951"
+  },
+  {
+    "id": "ec2675c2-e159-4e76-b006-5dd4b5361d06",
+    "question": "[Uber] Is there a mobile app?",
+    "answer": "Yes, you can download the uber app from iOS and Android stores.",
+    "category": "Billing",
+    "company": "Uber",
+    "tags": [
+      "uber",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.077417"
+  },
+  {
+    "id": "3f1f3277-5b51-48d5-838e-6bbfe0d6abcf",
+    "question": "[Uber] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Technical Support",
+    "company": "Uber",
+    "tags": [
+      "uber",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.099290"
+  },
+  {
+    "id": "03d23d97-6ee7-4b08-beef-0bf038be7093",
+    "question": "[Uber] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds or expired cards.",
+    "category": "Shipping & Delivery",
+    "company": "Uber",
+    "tags": [
+      "uber",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.121129"
+  },
+  {
+    "id": "21d1232a-ac19-4e8d-9f80-dd06fa4fcbb9",
+    "question": "[Uber] Can I share my account?",
+    "answer": "Account sharing policies vary. Please check the Terms of Service.",
+    "category": "General",
+    "company": "Uber",
+    "tags": [
+      "uber",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.137106"
+  },
+  {
+    "id": "7968fcb2-27dc-4c6f-b928-08c020e02cc0",
+    "question": "[Airbnb] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Airbnb",
+    "tags": [
+      "airbnb",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.161725"
+  },
+  {
+    "id": "ac4db49e-ac54-43df-9ba4-2c327ea4ecd0",
+    "question": "[Airbnb] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Airbnb",
+    "tags": [
+      "airbnb",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.188440"
+  },
+  {
+    "id": "8bc8fa16-39b0-44fe-a539-863d88058c97",
+    "question": "[Airbnb] How do I contact support?",
+    "answer": "You can reach us at support@airbnb.com or call 1-800-123-4567.",
+    "category": "Technical Support",
+    "company": "Airbnb",
+    "tags": [
+      "airbnb",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.213809"
+  },
+  {
+    "id": "4a8d0159-4c63-44dc-b600-27f72a788ff9",
+    "question": "[Airbnb] Can I get a refund?",
+    "answer": "Refunds are processed within 5-7 business days if applicable.",
+    "category": "Shipping & Delivery",
+    "company": "Airbnb",
+    "tags": [
+      "airbnb",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.237288"
+  },
+  {
+    "id": "6d7b7d5d-8937-46bc-9779-6944a24e6473",
+    "question": "[Airbnb] How do I close my account?",
+    "answer": "Navigate to account settings and select 'Deactivate Account'.",
+    "category": "General",
+    "company": "Airbnb",
+    "tags": [
+      "airbnb",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.263487"
+  },
+  {
+    "id": "7524ea61-87d9-4500-9407-db65fb15bf47",
+    "question": "[Airbnb] What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, AMEX, and PayPal.",
+    "category": "Accounts",
+    "company": "Airbnb",
+    "tags": [
+      "airbnb",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.288882"
+  },
+  {
+    "id": "56773d56-f98f-48af-99fb-ba1dc0bf852d",
+    "question": "[Airbnb] Is there a mobile app?",
+    "answer": "Yes, you can download the airbnb app from iOS and Android stores.",
+    "category": "Billing",
+    "company": "Airbnb",
+    "tags": [
+      "airbnb",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.312575"
+  },
+  {
+    "id": "05b7c67d-cb91-4c19-9e73-2f612cb0156f",
+    "question": "[Airbnb] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Technical Support",
+    "company": "Airbnb",
+    "tags": [
+      "airbnb",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.337814"
+  },
+  {
+    "id": "6d885055-1fb9-4ce8-a0e2-33c8473e6839",
+    "question": "[Airbnb] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds or expired cards.",
+    "category": "Shipping & Delivery",
+    "company": "Airbnb",
+    "tags": [
+      "airbnb",
+      "shipping&delivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.353882"
+  },
+  {
+    "id": "7d777fca-1e2f-406b-9d4b-aed7462e18e1",
+    "question": "[Airbnb] Can I share my account?",
+    "answer": "Account sharing policies vary. Please check the Terms of Service.",
+    "category": "General",
+    "company": "Airbnb",
+    "tags": [
+      "airbnb",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:21:43.377599"
+  },
+  {
+    "id": "4e532276-70c7-47e0-a00a-b291f25b95a1",
+    "question": "[Amazon] Where is my order?",
+    "answer": "You can track your order in the 'Orders' section of your Amazon account.",
+    "category": "Accounts",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.087267"
+  },
+  {
+    "id": "558aa404-4b2a-4f46-8641-86a8c0652570",
+    "question": "[Amazon] How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days. Expedited options are available at checkout.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.106652"
+  },
+  {
+    "id": "e89553f9-28ed-475e-8f5a-556f632f1669",
+    "question": "[Amazon] Can I change my delivery address?",
+    "answer": "Yes, you can update your address before the item ships from the 'Orders' page.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.124165"
+  },
+  {
+    "id": "8785cddc-714c-4a35-8ff8-240451bcbe1a",
+    "question": "[Amazon] Do you offer international shipping?",
+    "answer": "Amazon currently serves select international locations. Check our shipping policy for details.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.137871"
+  },
+  {
+    "id": "98671cf7-3112-4a1f-8728-fedfe33ee501",
+    "question": "[Amazon] Why is my delivery delayed?",
+    "answer": "Delays can occur due to weather or logistics. Please check the tracking link for updates.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.154473"
+  },
+  {
+    "id": "979c3ebe-f418-4bc5-a312-cb2a5e5f9710",
+    "question": "[Amazon] What happens if I miss my delivery?",
+    "answer": "Our delivery partners will usually attempt delivery 3 times before returning the item.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.169984"
+  },
+  {
+    "id": "66fc9fe7-3a1b-470b-93ff-89b486fc81a7",
+    "question": "[Amazon] Can I pick up my order from a store?",
+    "answer": "Depending on the location, Amazon offers pickup points. Check availability at checkout.",
+    "category": "Product Quality",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "productquality"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.186656"
+  },
+  {
+    "id": "3ed76871-6745-4e9e-8a69-18bea36a2e8f",
+    "question": "[Amazon] How do I contact the delivery agent?",
+    "answer": "You will receive the agent's contact details via SMS when the order is out for delivery.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.201670"
+  },
+  {
+    "id": "c3e75497-6cc7-4ba1-9f82-5a426eb0fe5e",
+    "question": "[Amazon] Is shipping free?",
+    "answer": "Free shipping is available on eligible orders or for Amazon premium members.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.217836"
+  },
+  {
+    "id": "64eeffbb-2d49-4cdc-aae3-28a93837081c",
+    "question": "[Amazon] How do I return an item?",
+    "answer": "Go to 'Orders', select the item, and click 'Return/Replace'.",
+    "category": "Returns & Refunds",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.232278"
+  },
+  {
+    "id": "6a6eeba3-5a81-40c7-8b1f-685227a6bfe3",
+    "question": "[Amazon] What is your return policy?",
+    "answer": "Most items can be returned within 7-30 days of delivery, depending on the product category.",
+    "category": "Returns & Refunds",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.250660"
+  },
+  {
+    "id": "b8098eaa-ebc4-4bb5-967e-ce7049518f70",
+    "question": "[Amazon] When will I get my refund?",
+    "answer": "Refunds are processed within 5-7 business days after we receive the returned item.",
+    "category": "Returns & Refunds",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.268863"
+  },
+  {
+    "id": "214bde80-1d2d-4f20-8458-740e2efa9afb",
+    "question": "[Amazon] Can I exchange my item for a different size?",
+    "answer": "Yes, you can request an exchange for apparel and footwear if the size is available.",
+    "category": "Returns & Refunds",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.288841"
+  },
+  {
+    "id": "9bc1daf9-88d6-483e-896c-6861a6f7e55a",
+    "question": "[Amazon] Do I have to pay for return shipping?",
+    "answer": "Return shipping is generally free for eligible items on Amazon.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.308639"
+  },
+  {
+    "id": "2fc9f8cd-1f75-40f7-9877-a0232078ade4",
+    "question": "[Amazon] My item arrived damaged. What do I do?",
+    "answer": "Please initiate a return immediately and upload photos of the damage.",
+    "category": "Product Quality",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "productquality"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.329626"
+  },
+  {
+    "id": "b7e330b9-666b-46b9-910c-9451256e5a61",
+    "question": "[Amazon] Why was my return rejected?",
+    "answer": "Returns may be rejected if tags are missing or the item appears used. Contact support for details.",
+    "category": "Returns & Refunds",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.352050"
+  },
+  {
+    "id": "8624be46-f9e2-47f4-abd6-efdad3e908e1",
+    "question": "[Amazon] How do I get a refund for a cancelled order?",
+    "answer": "Refunds for cancelled orders are processed automatically to your original payment method.",
+    "category": "Returns & Refunds",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.371720"
+  },
+  {
+    "id": "ee76c688-37b0-4e6d-8811-0a783d6ce68c",
+    "question": "[Amazon] Is my credit card information secure?",
+    "answer": "Yes, Amazon uses industry-standard encryption for all transactions.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.390881"
+  },
+  {
+    "id": "0eb39cfc-72e3-4f3c-864a-606c69a090ce",
+    "question": "[Amazon] Can I share my account with family?",
+    "answer": "You can add multiple addresses, but sharing login details is discouraged for security reasons.",
+    "category": "Accounts",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.411464"
+  },
+  {
+    "id": "8c05aa37-61ea-4eaf-850e-907a040f217a",
+    "question": "[Amazon] What do I do if my account is hacked?",
+    "answer": "Reset your password immediately and contact Amazon customer support.",
+    "category": "Accounts",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.435865"
+  },
+  {
+    "id": "2bb804f0-a067-4e6c-80ff-576d5487c9e8",
+    "question": "[Amazon] How do I unsubscribe from marketing emails?",
+    "answer": "Click the 'unsubscribe' link at the bottom of any promotional email.",
+    "category": "Accounts",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.460381"
+  },
+  {
+    "id": "0ccc0712-7d1a-4610-a2cf-cab070f2144f",
+    "question": "[Amazon] How do I enable two-factor authentication?",
+    "answer": "Go to 'Login & Security' settings to enable 2FA for your account.",
+    "category": "Accounts",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.483248"
+  },
+  {
+    "id": "399b9afa-a521-447c-aff9-23a70c7872f6",
+    "question": "[Amazon] Can I pay cash on delivery?",
+    "answer": "Yes, Cash on Delivery (COD) is available for many locations and products.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.507245"
+  },
+  {
+    "id": "5ff95fc5-e8d6-42d0-bab6-77b6731c85ad",
+    "question": "[Amazon] How do I use my wallet balance?",
+    "answer": "You can select your Amazon wallet balance as a payment method during checkout.",
+    "category": "Discounts & Offers",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "discountsandoffers"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.528364"
+  },
+  {
+    "id": "8285c927-7b82-4a54-a643-56df8ef4ccfb",
+    "question": "[Amazon] Are there any hidden charges?",
+    "answer": "No, the final amount shown at checkout includes all taxes and shipping fees.",
+    "category": "Product Quality",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "productquality"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.551471"
+  },
+  {
+    "id": "a895fa60-4fba-43f0-84bd-416940ca5103",
+    "question": "[Amazon] My bank account was debited but the order failed.",
+    "answer": "The amount will be naturally auto-refunded by your bank within 3-5 business days.",
+    "category": "Accounts",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.573346"
+  },
+  {
+    "id": "1fd71790-6175-4c52-bfa4-6054854c2643",
+    "question": "[Amazon] How do I apply a promo code?",
+    "answer": "Enter the promo code in the 'Apply Coupon' field during checkout.",
+    "category": "Discounts & Offers",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "discountsandoffers"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.596502"
+  },
+  {
+    "id": "2a737415-7e06-4398-95f7-0e8d1f4463f3",
+    "question": "[Amazon] Why is my coupon not working?",
+    "answer": "Coupons may have expired or may not be applicable to the items in your cart.",
+    "category": "Discounts & Offers",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "discountsandoffers"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.616496"
+  },
+  {
+    "id": "93359952-ac23-4074-a994-ba8bd0a2d74f",
+    "question": "[Amazon] Do you have a loyalty program?",
+    "answer": "Yes, join our premium membership for exclusive discounts and free shipping.",
+    "category": "Technical Support",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.638453"
+  },
+  {
+    "id": "4bba9aa5-bf37-4054-95f0-7ffc46596677",
+    "question": "[Amazon] Are bank offers available?",
+    "answer": "Bank-specific discounts are listed on the product page and applied at checkout.",
+    "category": "Shipping & Delivery",
+    "company": "Amazon",
+    "tags": [
+      "amazon",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.661568"
+  },
+  {
+    "id": "eef41d6e-eb5d-487b-b891-7c0287c8c532",
+    "question": "[Flipkart] Where is my order?",
+    "answer": "You can track your order in the 'Orders' section of your Flipkart account.",
+    "category": "Returns & Refunds",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.685095"
+  },
+  {
+    "id": "78a8ccc5-8605-49c0-b0af-28e5f40a0603",
+    "question": "[Flipkart] How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days. Expedited options are available at checkout.",
+    "category": "Shipping & Delivery",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.709769"
+  },
+  {
+    "id": "64474eae-c4cd-40c3-b917-f422aaad3471",
+    "question": "[Flipkart] Can I change my delivery address?",
+    "answer": "Yes, you can update your address before the item ships from the 'Orders' page.",
+    "category": "Shipping & Delivery",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.730344"
+  },
+  {
+    "id": "57e93cfb-9e96-4d86-a4d5-6079bae4ee81",
+    "question": "[Flipkart] Do you offer international shipping?",
+    "answer": "Flipkart currently serves select international locations. Check our shipping policy for details.",
+    "category": "Shipping & Delivery",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.751076"
+  },
+  {
+    "id": "2fb17ad2-0163-4685-a900-fe52fe4f97bb",
+    "question": "[Flipkart] Why is my delivery delayed?",
+    "answer": "Delays can occur due to weather or logistics. Please check the tracking link for updates.",
+    "category": "Shipping & Delivery",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.774721"
+  },
+  {
+    "id": "37627c8e-d8f4-401a-985a-38dde1dc1583",
+    "question": "[Flipkart] What happens if I miss my delivery?",
+    "answer": "Our delivery partners will usually attempt delivery 3 times before returning the item.",
+    "category": "Shipping & Delivery",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.798390"
+  },
+  {
+    "id": "e18c9095-d37f-4a8a-b79c-6b27e4e9acfd",
+    "question": "[Flipkart] Can I pick up my order from a store?",
+    "answer": "Depending on the location, Flipkart offers pickup points. Check availability at checkout.",
+    "category": "Technical Support",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.821755"
+  },
+  {
+    "id": "95af3e54-50be-4b53-bc82-d0730d067ff8",
+    "question": "[Flipkart] How do I contact the delivery agent?",
+    "answer": "You will receive the agent's contact details via SMS when the order is out for delivery.",
+    "category": "Shipping & Delivery",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.840358"
+  },
+  {
+    "id": "78d92364-2581-4b87-a1bf-fe639c507035",
+    "question": "[Flipkart] Is shipping free?",
+    "answer": "Free shipping is available on eligible orders or for Flipkart premium members.",
+    "category": "Shipping & Delivery",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.859782"
+  },
+  {
+    "id": "ede741a3-66dc-46fc-bd59-b9f006083a6a",
+    "question": "[Flipkart] How do I return an item?",
+    "answer": "Go to 'Orders', select the item, and click 'Return/Replace'.",
+    "category": "Returns & Refunds",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.881251"
+  },
+  {
+    "id": "a8c46404-1183-47df-9d84-d01378aa265a",
+    "question": "[Flipkart] What is your return policy?",
+    "answer": "Most items can be returned within 7-30 days of delivery, depending on the product category.",
+    "category": "Returns & Refunds",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.901374"
+  },
+  {
+    "id": "5dec8b3c-96b3-40cd-891b-1b2f7fe55345",
+    "question": "[Flipkart] When will I get my refund?",
+    "answer": "Refunds are processed within 5-7 business days after we receive the returned item.",
+    "category": "Returns & Refunds",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.917892"
+  },
+  {
+    "id": "eb5c85d7-dc02-4b09-b0e0-a3ffd33aa567",
+    "question": "[Flipkart] Can I exchange my item for a different size?",
+    "answer": "Yes, you can request an exchange for apparel and footwear if the size is available.",
+    "category": "Returns & Refunds",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.943562"
+  },
+  {
+    "id": "080cf5c0-9ebb-44d5-877e-029c60061580",
+    "question": "[Flipkart] Do I have to pay for return shipping?",
+    "answer": "Return shipping is generally free for eligible items on Flipkart.",
+    "category": "Shipping & Delivery",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.969944"
+  },
+  {
+    "id": "248d3ef9-af5d-4f85-91bd-aec14597801a",
+    "question": "[Flipkart] My item arrived damaged. What do I do?",
+    "answer": "Please initiate a return immediately and upload photos of the damage.",
+    "category": "Technical Support",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:29.994914"
+  },
+  {
+    "id": "33093f28-9333-475f-b370-04ae9d7e521c",
+    "question": "[Flipkart] Why was my return rejected?",
+    "answer": "Returns may be rejected if tags are missing or the item appears used. Contact support for details.",
+    "category": "Returns & Refunds",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.020966"
+  },
+  {
+    "id": "6658a378-937c-4f7b-8e6f-690dfa169a4e",
+    "question": "[Flipkart] How do I get a refund for a cancelled order?",
+    "answer": "Refunds for cancelled orders are processed automatically to your original payment method.",
+    "category": "Returns & Refunds",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.043296"
+  },
+  {
+    "id": "1c96c950-67fe-4978-9a6f-1948249a4c33",
+    "question": "[Flipkart] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.067898"
+  },
+  {
+    "id": "56bf48f1-d1b1-402c-8bbd-a62515625840",
+    "question": "[Flipkart] How do I close my account?",
+    "answer": "Navigate to account settings, select 'Deactivate Account', and follow the prompts.",
+    "category": "Accounts",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.082612"
+  },
+  {
+    "id": "1ea5a20a-3c0e-4686-b7bb-b6db0f6318e0",
+    "question": "[Flipkart] Is my credit card information secure?",
+    "answer": "Yes, Flipkart uses industry-standard encryption for all transactions.",
+    "category": "General",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.104240"
+  },
+  {
+    "id": "73cd2fde-b81e-42cb-8aa3-faf99b39f5fb",
+    "question": "[Flipkart] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Accounts",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.123428"
+  },
+  {
+    "id": "23217e94-5b36-4f05-b588-6897688532fa",
+    "question": "[Flipkart] Can I share my account with family?",
+    "answer": "You can add multiple addresses, but sharing login details is discouraged for security reasons.",
+    "category": "Accounts",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.144662"
+  },
+  {
+    "id": "aae6b954-b341-4ab7-8640-bbfed2c537d4",
+    "question": "[Flipkart] What do I do if my account is hacked?",
+    "answer": "Reset your password immediately and contact Flipkart customer support.",
+    "category": "Accounts",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.164715"
+  },
+  {
+    "id": "864ba1d3-6631-4855-a4e0-e3050ad773ab",
+    "question": "[Flipkart] How do I unsubscribe from marketing emails?",
+    "answer": "Click the 'unsubscribe' link at the bottom of any promotional email.",
+    "category": "Accounts",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.185577"
+  },
+  {
+    "id": "59fdea82-ca43-4e8c-a970-45800d925e1d",
+    "question": "[Flipkart] How do I enable two-factor authentication?",
+    "answer": "Go to 'Login & Security' settings to enable 2FA for your account.",
+    "category": "Returns & Refunds",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.217352"
+  },
+  {
+    "id": "a7c64c91-2b5b-4593-92b9-3774c8584a07",
+    "question": "[Flipkart] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Orders' or 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.240687"
+  },
+  {
+    "id": "1f98976a-53e4-4591-9ea8-507669e57609",
+    "question": "[Flipkart] What payment methods do you accept?",
+    "answer": "We accept Credit/Debit cards, Net Banking, UPI, and select Digital Wallets.",
+    "category": "Billing",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.267565"
+  },
+  {
+    "id": "58f9b2ec-1136-40f6-8e5d-01372fd040d2",
+    "question": "[Flipkart] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds, bank server issues, or an expired card.",
+    "category": "Billing",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.293082"
+  },
+  {
+    "id": "34edd1d1-7697-45ee-a1af-6abefdb78360",
+    "question": "[Flipkart] Can I pay cash on delivery?",
+    "answer": "Yes, Cash on Delivery (COD) is available for many locations and products.",
+    "category": "Shipping & Delivery",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.314050"
+  },
+  {
+    "id": "6e0e0beb-66d6-4d59-afb1-16276e410b71",
+    "question": "[Flipkart] How do I use my wallet balance?",
+    "answer": "You can select your Flipkart wallet balance as a payment method during checkout.",
+    "category": "Billing",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.337619"
+  },
+  {
+    "id": "4123a3ed-5319-4111-b6b4-4530d869bc81",
+    "question": "[Flipkart] Are there any hidden charges?",
+    "answer": "No, the final amount shown at checkout includes all taxes and shipping fees.",
+    "category": "Technical Support",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.362651"
+  },
+  {
+    "id": "6cfe0742-39e4-47f9-ab00-6bbe862f0e12",
+    "question": "[Flipkart] My bank account was debited but the order failed.",
+    "answer": "The amount will be naturally auto-refunded by your bank within 3-5 business days.",
+    "category": "Accounts",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.383610"
+  },
+  {
+    "id": "7210ef35-c14f-4508-bfe7-25228b0d1ca9",
+    "question": "[Flipkart] How do I apply a promo code?",
+    "answer": "Enter the promo code in the 'Apply Coupon' field during checkout.",
+    "category": "Discounts & Offers",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "discountsandoffers"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.409575"
+  },
+  {
+    "id": "2bbdc8de-da02-49c4-9c65-b47b494f2b89",
+    "question": "[Flipkart] Why is my coupon not working?",
+    "answer": "Coupons may have expired or may not be applicable to the items in your cart.",
+    "category": "Discounts & Offers",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "discountsandoffers"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.433884"
+  },
+  {
+    "id": "99a53f8c-b19e-42d2-91b3-66866866318a",
+    "question": "[Flipkart] Do you have a loyalty program?",
+    "answer": "Yes, join our premium membership for exclusive discounts and free shipping.",
+    "category": "Product Quality",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "productquality"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.457638"
+  },
+  {
+    "id": "95d9c45b-485b-4995-8905-0991153fa21e",
+    "question": "[Flipkart] Are bank offers available?",
+    "answer": "Bank-specific discounts are listed on the product page and applied at checkout.",
+    "category": "General",
+    "company": "Flipkart",
+    "tags": [
+      "flipkart",
+      "general"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.482111"
+  },
+  {
+    "id": "7e9aee8e-61e8-4568-a253-9b5fe7adb03d",
+    "question": "[Myntra] Where is my order?",
+    "answer": "You can track your order in the 'Orders' section of your Myntra account.",
+    "category": "Accounts",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.506698"
+  },
+  {
+    "id": "8af03800-6b3c-430d-b737-94ab39c76a51",
+    "question": "[Myntra] How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days. Expedited options are available at checkout.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.531416"
+  },
+  {
+    "id": "395fa03b-fd07-4b04-a511-95fa2d55922b",
+    "question": "[Myntra] Can I change my delivery address?",
+    "answer": "Yes, you can update your address before the item ships from the 'Orders' page.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.552582"
+  },
+  {
+    "id": "301baf6d-f2cc-480b-a814-1ef3c0d6f811",
+    "question": "[Myntra] Do you offer international shipping?",
+    "answer": "Myntra currently serves select international locations. Check our shipping policy for details.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.573174"
+  },
+  {
+    "id": "a97e9047-4b20-43ba-8b43-40f6dcd517ad",
+    "question": "[Myntra] Why is my delivery delayed?",
+    "answer": "Delays can occur due to weather or logistics. Please check the tracking link for updates.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.596720"
+  },
+  {
+    "id": "ef07e121-0ac9-41c1-b719-a526ab5d6f0e",
+    "question": "[Myntra] What happens if I miss my delivery?",
+    "answer": "Our delivery partners will usually attempt delivery 3 times before returning the item.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.616851"
+  },
+  {
+    "id": "ffaad91c-800c-4550-85a5-176f0ed975f5",
+    "question": "[Myntra] Can I pick up my order from a store?",
+    "answer": "Depending on the location, Myntra offers pickup points. Check availability at checkout.",
+    "category": "Product Quality",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "productquality"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.638335"
+  },
+  {
+    "id": "0ac97c2d-9432-4c8d-839a-4fe57b9ae3c7",
+    "question": "[Myntra] How do I contact the delivery agent?",
+    "answer": "You will receive the agent's contact details via SMS when the order is out for delivery.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.654991"
+  },
+  {
+    "id": "bb53795d-ca6a-4b6a-ab77-657f7840cbd6",
+    "question": "[Myntra] Is shipping free?",
+    "answer": "Free shipping is available on eligible orders or for Myntra premium members.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.678602"
+  },
+  {
+    "id": "781ff53d-fd4a-4d52-b88b-715e7e43d8d6",
+    "question": "[Myntra] How do I return an item?",
+    "answer": "Go to 'Orders', select the item, and click 'Return/Replace'.",
+    "category": "Returns & Refunds",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.694802"
+  },
+  {
+    "id": "d8ea845e-df51-4ce3-9e68-110555d6b9f2",
+    "question": "[Myntra] What is your return policy?",
+    "answer": "Most items can be returned within 7-30 days of delivery, depending on the product category.",
+    "category": "Returns & Refunds",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "returnsandrefunds"
+    ],
+    "hit_count": 3,
+    "created_at": "2026-03-14T04:23:30.718996"
+  },
+  {
+    "id": "952ad6c3-91e2-4796-9b92-23f49f257885",
+    "question": "[Myntra] When will I get my refund?",
+    "answer": "Refunds are processed within 5-7 business days after we receive the returned item.",
+    "category": "Returns & Refunds",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.741620"
+  },
+  {
+    "id": "48c3e5b0-fd16-41b5-b876-79a8db7ffdc8",
+    "question": "[Myntra] Can I exchange my item for a different size?",
+    "answer": "Yes, you can request an exchange for apparel and footwear if the size is available.",
+    "category": "Returns & Refunds",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.759645"
+  },
+  {
+    "id": "6b918c49-dab7-48ca-b2bb-de81a129e6f4",
+    "question": "[Myntra] Do I have to pay for return shipping?",
+    "answer": "Return shipping is generally free for eligible items on Myntra.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.785327"
+  },
+  {
+    "id": "95eb7e50-dc2d-4d68-8d8f-a91e821df348",
+    "question": "[Myntra] My item arrived damaged. What do I do?",
+    "answer": "Please initiate a return immediately and upload photos of the damage.",
+    "category": "Product Quality",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "productquality"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.811351"
+  },
+  {
+    "id": "e43f6baa-f5fc-4a0b-b153-f7035b9ac36f",
+    "question": "[Myntra] Why was my return rejected?",
+    "answer": "Returns may be rejected if tags are missing or the item appears used. Contact support for details.",
+    "category": "Returns & Refunds",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.836253"
+  },
+  {
+    "id": "7d8606ba-431e-40d3-8503-dd84622ef214",
+    "question": "[Myntra] How do I get a refund for a cancelled order?",
+    "answer": "Refunds for cancelled orders are processed automatically to your original payment method.",
+    "category": "Returns & Refunds",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "returnsandrefunds"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.858611"
+  },
+  {
+    "id": "78236ebe-1522-4ecd-ad1e-91f144f8eb9d",
+    "question": "[Myntra] How do I change my password?",
+    "answer": "Go to settings > security and click 'change password'.",
+    "category": "Accounts",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.882445"
+  },
+  {
+    "id": "c7037e96-e9a8-470e-85ab-4fdff97bb9b3",
+    "question": "[Myntra] How do I close my account?",
+    "answer": "Navigate to account settings, select 'Deactivate Account', and follow the prompts.",
+    "category": "Accounts",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:30.907205"
+  },
+  {
+    "id": "c171753c-1a33-42b3-b973-f58b134015ad",
+    "question": "[Myntra] Is my credit card information secure?",
+    "answer": "Yes, Myntra uses industry-standard encryption for all transactions.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.012428"
+  },
+  {
+    "id": "e46c60f2-e110-45ba-a9ce-4bf44734711f",
+    "question": "[Myntra] How do I update my email address?",
+    "answer": "Go to 'Personal Details' in your account settings.",
+    "category": "Accounts",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.036742"
+  },
+  {
+    "id": "9a0e2ac7-33c2-4e58-8570-5ee8b0be84c6",
+    "question": "[Myntra] Can I share my account with family?",
+    "answer": "You can add multiple addresses, but sharing login details is discouraged for security reasons.",
+    "category": "Accounts",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.063039"
+  },
+  {
+    "id": "bf57b047-9cfc-4f4e-ad7a-835371221711",
+    "question": "[Myntra] What do I do if my account is hacked?",
+    "answer": "Reset your password immediately and contact Myntra customer support.",
+    "category": "Accounts",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.085626"
+  },
+  {
+    "id": "0973d153-582e-4628-a2b7-5cad062a29e2",
+    "question": "[Myntra] How do I unsubscribe from marketing emails?",
+    "answer": "Click the 'unsubscribe' link at the bottom of any promotional email.",
+    "category": "Accounts",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.111672"
+  },
+  {
+    "id": "856a159d-e860-4b7e-b76d-e7432f8a1f86",
+    "question": "[Myntra] How do I enable two-factor authentication?",
+    "answer": "Go to 'Login & Security' settings to enable 2FA for your account.",
+    "category": "Accounts",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.140085"
+  },
+  {
+    "id": "f2198b10-5c4b-41ea-a46b-6f6089c2fdf8",
+    "question": "[Myntra] Where can I find my invoice?",
+    "answer": "Invoices are available under the 'Orders' or 'Billing' section of your profile.",
+    "category": "Billing",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.166282"
+  },
+  {
+    "id": "66940f10-bc72-46ae-a51a-745763d73c41",
+    "question": "[Myntra] What payment methods do you accept?",
+    "answer": "We accept Credit/Debit cards, Net Banking, UPI, and select Digital Wallets.",
+    "category": "Billing",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.190941"
+  },
+  {
+    "id": "44de3d7b-21a8-4f08-8feb-5dadd93f02f7",
+    "question": "[Myntra] Why did my payment fail?",
+    "answer": "This usually happens due to insufficient funds, bank server issues, or an expired card.",
+    "category": "Billing",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "billing"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.219368"
+  },
+  {
+    "id": "fff7ee82-8187-4f0b-8510-f65f754a0391",
+    "question": "[Myntra] Can I pay cash on delivery?",
+    "answer": "Yes, Cash on Delivery (COD) is available for many locations and products.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.248049"
+  },
+  {
+    "id": "5f649556-3d9d-496d-a81a-42c7ec0dea08",
+    "question": "[Myntra] How do I use my wallet balance?",
+    "answer": "You can select your Myntra wallet balance as a payment method during checkout.",
+    "category": "Discounts & Offers",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "discountsandoffers"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.273770"
+  },
+  {
+    "id": "117aa7e3-abb6-4dbc-9fc9-e2a2a572f33e",
+    "question": "[Myntra] Are there any hidden charges?",
+    "answer": "No, the final amount shown at checkout includes all taxes and shipping fees.",
+    "category": "Product Quality",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "productquality"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.297505"
+  },
+  {
+    "id": "f4a34b93-4948-4776-9ed3-8a1e64694c70",
+    "question": "[Myntra] My bank account was debited but the order failed.",
+    "answer": "The amount will be naturally auto-refunded by your bank within 3-5 business days.",
+    "category": "Accounts",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "accounts"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.322088"
+  },
+  {
+    "id": "5d503e15-facb-4e26-8813-0141cdcb061a",
+    "question": "[Myntra] How do I apply a promo code?",
+    "answer": "Enter the promo code in the 'Apply Coupon' field during checkout.",
+    "category": "Discounts & Offers",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "discountsandoffers"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.345428"
+  },
+  {
+    "id": "a914a10b-b828-4c95-a582-7cb0bdf63322",
+    "question": "[Myntra] Why is my coupon not working?",
+    "answer": "Coupons may have expired or may not be applicable to the items in your cart.",
+    "category": "Discounts & Offers",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "discountsandoffers"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.368929"
+  },
+  {
+    "id": "f5ae18b1-8ad6-4994-ac1d-eabfbc48ff4d",
+    "question": "[Myntra] Do you have a loyalty program?",
+    "answer": "Yes, join our premium membership for exclusive discounts and free shipping.",
+    "category": "Technical Support",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "technicalsupport"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.394364"
+  },
+  {
+    "id": "e01e31d0-83e8-4a25-aa76-de7040e6cfd0",
+    "question": "[Myntra] Are bank offers available?",
+    "answer": "Bank-specific discounts are listed on the product page and applied at checkout.",
+    "category": "Shipping & Delivery",
+    "company": "Myntra",
+    "tags": [
+      "myntra",
+      "shippinganddelivery"
+    ],
+    "hit_count": 0,
+    "created_at": "2026-03-14T04:23:31.417835"
+  },
+  {
+    "id": "50033daf-2420-4ed5-8739-d8154274f32e",
+    "question": "modi age",
+    "answer": "55",
+    "category": "General",
+    "company": "Amazon",
+    "tags": [],
+    "hit_count": 1,
+    "created_at": "2026-03-14T07:00:57.275338"
+  },
+  {
+    "id": "6ee9a535-f3a8-4aad-a2cb-8090051319c8",
+    "question": "How do I apply a coupon code on Flipkart?",
+    "answer": "Please initiate a return request immediately for damaged products.",
+    "category": "General",
+    "company": "Amazon",
+    "tags": [],
+    "hit_count": 0,
+    "created_at": "2026-03-14T07:02:47.237274"
+  },
+  {
+    "id": "02dc8cda-881c-4830-890a-d6780fdd49fc",
+    "question": "How do I check the size chart on Flipkart?",
+    "answer": "You can create an account using your email ID or mobile number.",
+    "category": "General",
+    "company": "Amazon",
+    "tags": [],
+    "hit_count": 0,
+    "created_at": "2026-03-14T07:02:47.304835"
+  },
+  {
+    "id": "aaa13a59-5e0e-4e14-bd22-f96197e2bdf6",
+    "question": "Are there any delivery charges on Flipkart?",
+    "answer": "Scheduled delivery is available for selected products and locations.",
+    "category": "General",
+    "company": "Amazon",
+    "tags": [],
+    "hit_count": 0,
+    "created_at": "2026-03-14T07:02:47.491469"
+  },
+  {
+    "id": "5bea499d-f50b-44bd-986b-011855627224",
+    "question": "Can I exchange a product on Flipkart?",
+    "answer": "You can apply the coupon code during checkout in the promo code section.",
+    "category": "General",
+    "company": "Amazon",
+    "tags": [],
+    "hit_count": 0,
+    "created_at": "2026-03-14T07:02:47.606678"
+  },
+  {
+    "id": "8deecb90-2c86-4eab-a83b-82f1f04c51f9",
+    "question": "How do I cancel my Flipkart order?",
+    "answer": "You can check the size chart on the product page before purchasing.",
+    "category": "General",
+    "company": "Amazon",
+    "tags": [],
+    "hit_count": 0,
+    "created_at": "2026-03-14T07:02:47.670101"
+  },
+  {
+    "id": "4db07ca2-36f6-40e0-ae55-c36ff6e4fb6a",
+    "question": "How do I create a Flipkart account?",
+    "answer": "You can check the size chart on the product page before purchasing.",
+    "category": "General",
+    "company": "Amazon",
+    "tags": [],
+    "hit_count": 0,
+    "created_at": "2026-03-14T07:02:47.730067"
+  },
+  {
+    "id": "ec4c1e52-2080-48a2-98cb-c99e56df6dd8",
+    "question": "How can I contact Flipkart customer support?",
+    "answer": "You can download your invoice from the order details page.",
+    "category": "General",
+    "company": "Amazon",
+    "tags": [],
+    "hit_count": 0,
+    "created_at": "2026-03-14T07:02:47.767446"
+  },
+  {
+    "id": "1ab1113c-b139-48d2-9934-bbc1d6ba5208",
+    "question": "How do I check Flipkart wallet balance?",
+    "answer": "Yes, cash on delivery is available for selected pin codes.",
+    "category": "General",
+    "company": "Amazon",
+    "tags": [],
+    "hit_count": 0,
+    "created_at": "2026-03-14T07:02:47.814616"
+  }
+]

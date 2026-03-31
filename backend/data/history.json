@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "0ec84d91-174a-40dc-9a9e-c20d207e2b03",
+    "user_id": "test",
+    "question": "How can I track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 809,
+    "timestamp": "2026-03-06T18:52:56.148128"
+  },
+  {
+    "id": "d55b7445-1542-4660-ba4c-356335f78a17",
+    "user_id": "admin",
+    "question": "hello",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\nPlease retry in 59.018279507s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 2777,
+    "timestamp": "2026-03-06T18:56:01.801081"
+  },
+  {
+    "id": "14829821-716a-4952-8149-8ba9133987a2",
+    "user_id": "admin",
+    "question": "How can I track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 806,
+    "timestamp": "2026-03-06T18:56:29.653016"
+  },
+  {
+    "id": "401c371e-6a2c-4e7d-82b3-451a891e6dc6",
+    "user_id": "admin",
+    "question": "Amazon's refund policy",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 480,
+    "timestamp": "2026-03-06T18:56:51.290000"
+  },
+  {
+    "id": "3c5e7851-c63e-464d-9116-5246151558dc",
+    "user_id": "admin",
+    "question": "How to reset my password?",
+    "answer": "Go to Amazon.in → click 'Sign In' → 'Forgot your password?' → enter your email or mobile number → follow the OTP instructions.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 823,
+    "timestamp": "2026-03-06T18:57:41.995050"
+  },
+  {
+    "id": "a2db3ea5-854d-4de8-a1b0-bcf79bb8234e",
+    "user_id": "user",
+    "question": "password",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\nPlease retry in 45.972945765s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 1446,
+    "timestamp": "2026-03-06T19:01:14.838268"
+  },
+  {
+    "id": "93f01184-8f7e-4753-bb1f-140c71e78698",
+    "user_id": "user",
+    "question": "password change",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\\nPlease retry in 37.597345669s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 1798,
+    "timestamp": "2026-03-06T19:01:23.210204"
+  },
+  {
+    "id": "e75598e4-0207-40cb-b5e6-83338486b563",
+    "user_id": "user",
+    "question": "refund policy",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\nPlease retry in 24.474413843s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '24s'}]}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 1404,
+    "timestamp": "2026-03-06T19:01:36.335818"
+  },
+  {
+    "id": "086f4840-d760-4cc1-90d8-ed7ed190797f",
+    "user_id": "user",
+    "question": "amazon refund policy",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 830,
+    "timestamp": "2026-03-06T19:01:57.059653"
+  },
+  {
+    "id": "04dabebc-5965-471c-bdc1-6dd6f25b33db",
+    "user_id": "user",
+    "question": "refund policy",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 825,
+    "timestamp": "2026-03-06T19:02:13.670775"
+  },
+  {
+    "id": "3316ba98-a2ec-43ce-949f-55f7453f695c",
+    "user_id": "user",
+    "question": "refund",
+    "answer": "Go to My Orders on Flipkart → select the order → tap 'Cancel'. You can cancel before the order is shipped. Refund is processed within 7 business days.",
+    "company": "Flipkart",
+    "source": "faq",
+    "response_time_ms": 485,
+    "timestamp": "2026-03-06T19:02:28.723777"
+  },
+  {
+    "id": "afdf2e13-51d9-4fae-975a-9207b4520d8f",
+    "user_id": "user",
+    "question": "refund",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 793,
+    "timestamp": "2026-03-06T19:02:41.755417"
+  },
+  {
+    "id": "0edca155-ccef-44e5-9eca-5097a52483c5",
+    "user_id": "user",
+    "question": "refund policy",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\nPlease retry in 3.038386743s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 1689,
+    "timestamp": "2026-03-06T19:02:57.767088"
+  },
+  {
+    "id": "a5bf320f-79e6-4f6b-8b88-6729bbe2c3ce",
+    "user_id": "user",
+    "question": "hello",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\\nPlease retry in 1.464912764s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 2973,
+    "timestamp": "2026-03-06T19:32:59.356707"
+  },
+  {
+    "id": "902458a3-7d5a-49a6-a989-cd80ec807a90",
+    "user_id": "user",
+    "question": "hello \nhow to return product on amazon",
+    "answer": "Go to Your Orders → select the item → click 'Return or Replace Items' → choose the reason and submit. A return label will be emailed to you.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 1985,
+    "timestamp": "2026-03-07T03:15:22.231661"
+  },
+  {
+    "id": "c08f8095-46e8-4d56-b556-2d20cca7debd",
+    "user_id": "user",
+    "question": "which day is today",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\\nPlease retry in 20.854230667s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 2798,
+    "timestamp": "2026-03-07T03:15:40.110597"
+  },
+  {
+    "id": "b5a6c6a9-73d9-4637-a80f-089d35f443ee",
+    "user_id": "admin",
+    "question": "How to track my Amazon order",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 30031,
+    "timestamp": "2026-03-07T05:40:52.073764"
+  },
+  {
+    "id": "07b1b8ac-ce7d-4e2f-ac88-3534eec15050",
+    "user_id": "user",
+    "question": "refund policy",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "Amazon",
+    "source": "llm",
+    "response_time_ms": 27023,
+    "timestamp": "2026-03-07T05:41:38.146315"
+  },
+  {
+    "id": "98847831-5c02-4479-9de6-347a29f784b0",
+    "user_id": "user",
+    "question": "amazon refund",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 30328,
+    "timestamp": "2026-03-07T05:50:14.954266"
+  },
+  {
+    "id": "440d5e98-9dea-4fc1-ad77-95540b95b376",
+    "user_id": "admin",
+    "question": "How can I track my Amazon order?",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "Amazon",
+    "source": "llm",
+    "response_time_ms": 26362,
+    "timestamp": "2026-03-07T05:51:51.103748"
+  },
+  {
+    "id": "e81251a5-f469-4e1a-a44d-90283a2b2496",
+    "user_id": "admin",
+    "question": "hello",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 26820,
+    "timestamp": "2026-03-07T05:52:54.702183"
+  },
+  {
+    "id": "480baa5f-2689-4a78-a5b4-c2557d707755",
+    "user_id": "admin",
+    "question": "refund",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "Flipkart",
+    "source": "llm",
+    "response_time_ms": 34106,
+    "timestamp": "2026-03-07T05:57:54.931523"
+  },
+  {
+    "id": "5e31a538-ad64-45a6-ac0b-0770e38134db",
+    "user_id": "test",
+    "question": "How to track my order?",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 31103,
+    "timestamp": "2026-03-07T06:00:35.779231"
+  },
+  {
+    "id": "901770de-650f-475b-a222-567aed43c15c",
+    "user_id": "test",
+    "question": "How to track my order?",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 25933,
+    "timestamp": "2026-03-07T06:02:26.134675"
+  },
+  {
+    "id": "6d8c0a24-3d4c-4d4f-bc75-0efce4336383",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "Amazon",
+    "source": "llm",
+    "response_time_ms": 28378,
+    "timestamp": "2026-03-07T06:05:18.155864"
+  },
+  {
+    "id": "e462c940-7046-4be1-b60f-991885a3fbb6",
+    "user_id": "user",
+    "question": "How to reset my password?",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 30283,
+    "timestamp": "2026-03-07T06:10:40.672278"
+  },
+  {
+    "id": "03372587-dc4e-4bbf-98f6-fbe545c3e66e",
+    "user_id": "user",
+    "question": "How to reset my password?",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "Flipkart",
+    "source": "llm",
+    "response_time_ms": 25725,
+    "timestamp": "2026-03-07T06:10:45.796931"
+  },
+  {
+    "id": "aa11b242-c601-40e9-871a-6d9f20912243",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "Flipkart",
+    "source": "llm",
+    "response_time_ms": 25895,
+    "timestamp": "2026-03-07T06:11:00.408980"
+  },
+  {
+    "id": "6a8c60aa-d2d8-4587-baeb-981900bb644f",
+    "user_id": "user",
+    "question": "flipkart",
+    "answer": "Open the Flipkart app or website → My Orders → select your order → click 'Track'. You'll see live courier updates.",
+    "company": "Flipkart",
+    "source": "faq",
+    "response_time_ms": 5117,
+    "timestamp": "2026-03-07T06:22:12.145304"
+  },
+  {
+    "id": "5c487980-64c5-419c-ae74-1879ef4737e6",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 46137,
+    "timestamp": "2026-03-07T06:24:25.212373"
+  },
+  {
+    "id": "ba976398-c036-404e-b2b2-3b8e5541cc0a",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 46428,
+    "timestamp": "2026-03-07T06:28:46.002287"
+  },
+  {
+    "id": "e9024959-cb56-4d6b-b666-640d62bc8a21",
+    "user_id": "user",
+    "question": "give more ddetails",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "Amazon",
+    "source": "llm",
+    "response_time_ms": 94775,
+    "timestamp": "2026-03-07T06:31:21.250319"
+  },
+  {
+    "id": "0d871a66-9cc0-4b1b-a1ac-14d361006db9",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 56163,
+    "timestamp": "2026-03-07T07:32:51.886359"
+  },
+  {
+    "id": "00214613-92c5-4186-9f3e-1a0b0f6df4b1",
+    "user_id": "user",
+    "question": "amazon owner",
+    "answer": "You can contact Amazon support via: 1) Help → Contact Us on the website  2) Amazon app → Menu → Customer Service  3) Phone: 1800-3000-9009 (toll free)",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 48606,
+    "timestamp": "2026-03-07T07:34:05.452577"
+  },
+  {
+    "id": "ca4c76ee-61a8-44d3-9abb-4061b848a732",
+    "user_id": "user",
+    "question": "hello",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "Amazon",
+    "source": "llm",
+    "response_time_ms": 104913,
+    "timestamp": "2026-03-07T07:36:11.999216"
+  },
+  {
+    "id": "dcb7c121-724a-4852-8f0f-f0d1a00a3f97",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 47641,
+    "timestamp": "2026-03-08T03:43:49.792832"
+  },
+  {
+    "id": "27340a10-c756-4518-a2b4-e14b24566ef2",
+    "user_id": "user",
+    "question": "hello",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "Amazon",
+    "source": "llm",
+    "response_time_ms": 93519,
+    "timestamp": "2026-03-08T03:45:31.656169"
+  },
+  {
+    "id": "0290d54f-2f2b-456f-b857-355b5e20cefb",
+    "user_id": "user",
+    "question": "hello",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 92500,
+    "timestamp": "2026-03-08T03:50:27.634590"
+  },
+  {
+    "id": "33e99be2-3e2e-443f-b932-ed59adedd492",
+    "user_id": "user",
+    "question": "hello which day is today",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 2915,
+    "timestamp": "2026-03-08T03:55:13.918500"
+  },
+  {
+    "id": "2e849e19-9c60-4909-b137-d58d477ff55b",
+    "user_id": "user",
+    "question": "hello",
+    "answer": "[LLM Error: 429 None. {'error': {'message': 'System overloaded, please try again later.', 'type': 'wisdom_ai_error', 'param': '', 'code': 'model_rate_limit_exceeded'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 3604,
+    "timestamp": "2026-03-08T03:55:31.514939"
+  },
+  {
+    "id": "1f5e9010-398f-4a15-b0f0-feb62bdf0e52",
+    "user_id": "user",
+    "question": "hello",
+    "answer": "[LLM Error: 500 None. {'error': {'message': 'No access. Please check the model and your plan: https://wisdom-gate.juheapi.com/pricing.', 'type': 'wisdom_ai_error', 'param': '', 'code': 'get_channel_failed'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 4737,
+    "timestamp": "2026-03-08T04:00:30.900700"
+  },
+  {
+    "id": "a6baf3b6-f3d2-4902-a698-306e606f1fb2",
+    "user_id": "admin",
+    "question": "How do I create a Snitch account?",
+    "answer": "You can create an account using your email ID or mobile number.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 1570,
+    "timestamp": "2026-03-08T04:06:31.737406"
+  },
+  {
+    "id": "84330d76-e9d4-4bec-afd2-cf611c173cd6",
+    "user_id": "admin",
+    "question": "How to reset my password?",
+    "answer": "Go to Amazon.in → click 'Sign In' → 'Forgot your password?' → enter your email or mobile number → follow the OTP instructions.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 33,
+    "timestamp": "2026-03-08T05:44:15.150057"
+  },
+  {
+    "id": "53fbee37-8a4b-49db-b14f-7029ab279b58",
+    "user_id": "admin",
+    "question": "hello",
+    "answer": "[LLM Error: 500 None. {'error': {'message': 'No access. Please check the model and your plan: https://wisdom-gate.juheapi.com/pricing.', 'type': 'wisdom_ai_error', 'param': '', 'code': 'get_channel_failed'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 1281,
+    "timestamp": "2026-03-08T05:44:46.369853"
+  },
+  {
+    "id": "8c3bd83f-72e4-4b2b-b1e3-6f0030eef879",
+    "user_id": "admin",
+    "question": "amazon",
+    "answer": "[LLM Error: 500 None. {'error': {'message': 'No access. Please check the model and your plan: https://wisdom-gate.juheapi.com/pricing.', 'type': 'wisdom_ai_error', 'param': '', 'code': 'get_channel_failed'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 1403,
+    "timestamp": "2026-03-08T05:45:38.659040"
+  },
+  {
+    "id": "70830ca0-0c94-4dcd-9d2f-ceebf4a9d43f",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 26,
+    "timestamp": "2026-03-08T05:46:36.612666"
+  },
+  {
+    "id": "657443dc-2627-4467-b159-fc6da1e5e03b",
+    "user_id": "user",
+    "question": "refund",
+    "answer": "[LLM Error: 500 None. {'error': {'message': 'No access. Please check the model and your plan: https://wisdom-gate.juheapi.com/pricing.', 'type': 'wisdom_ai_error', 'param': '', 'code': 'get_channel_failed'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 1347,
+    "timestamp": "2026-03-08T05:46:50.815152"
+  },
+  {
+    "id": "b2a7b6fd-29d8-4e17-976e-2de7c34676ce",
+    "user_id": "admin",
+    "question": "gunjan",
+    "answer": "[LLM Error: 500 None. {'error': {'message': 'No access. Please check the model and your plan: https://wisdom-gate.juheapi.com/pricing.', 'type': 'wisdom_ai_error', 'param': '', 'code': 'get_channel_failed'}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 2599,
+    "timestamp": "2026-03-08T05:52:00.600522"
+  },
+  {
+    "id": "a00e6b1f-d709-4196-b1a5-801c8c6849a7",
+    "user_id": "admin",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 12,
+    "timestamp": "2026-03-08T05:59:22.550751"
+  },
+  {
+    "id": "fe384a87-dd98-4b75-92ae-4f54cef5b234",
+    "user_id": "admin",
+    "question": "Hello.",
+    "answer": "Not found in database.\n\n[AI service not configured. Please set the GOOGLE_API_KEY environment variable to enable LLM responses.] ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 570,
+    "timestamp": "2026-03-08T06:37:54.555883"
+  },
+  {
+    "id": "d99dace8-68d8-4ac7-9097-66a2b569735e",
+    "user_id": "admin",
+    "question": "Can you explain that more?",
+    "answer": "Not found in database.\n\n[AI service not configured. Please set the GOOGLE_API_KEY environment variable to enable LLM responses.] ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 73,
+    "timestamp": "2026-03-08T06:38:02.526822"
+  },
+  {
+    "id": "cb485b3d-9226-4c07-bba1-7869a0686de7",
+    "user_id": "admin",
+    "question": "Where can I find more details?",
+    "answer": "Not found in database.\n\n[AI service not configured. Please set the GOOGLE_API_KEY environment variable to enable LLM responses.] ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 65,
+    "timestamp": "2026-03-08T06:38:08.208161"
+  },
+  {
+    "id": "f745b7bc-177c-43d4-9a13-2e2af5ee7056",
+    "user_id": "admin",
+    "question": "Refund policy.",
+    "answer": "Not found in database.\n\n[AI service not configured. Please set the GOOGLE_API_KEY environment variable to enable LLM responses.] ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 62,
+    "timestamp": "2026-03-08T06:38:20.293941"
+  },
+  {
+    "id": "30332a61-5e48-4e2d-91d5-8c96bf7dc038",
+    "user_id": "admin",
+    "question": "How to reset my password?",
+    "answer": "Not found in database.\n\n[AI service not configured. Please set the GOOGLE_API_KEY environment variable to enable LLM responses.] ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 58,
+    "timestamp": "2026-03-08T06:38:49.044042"
+  },
+  {
+    "id": "145713f0-6791-48c5-ad15-702c69ebc6ad",
+    "user_id": "admin",
+    "question": "How to track my Amazon order?",
+    "answer": "Not found in database.\n\n[AI service not configured. Please set the GOOGLE_API_KEY environment variable to enable LLM responses.] ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 60,
+    "timestamp": "2026-03-08T06:39:13.690793"
+  },
+  {
+    "id": "8050838e-3abd-420a-a207-35d031c68f25",
+    "user_id": "anon",
+    "question": "How to track my Amazon order?",
+    "answer": "Not found in database.\n\n[AI service not configured. Set GOOGLE_API_KEY to enable LLM responses.]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 40,
+    "timestamp": "2026-03-08T06:41:37.574692"
+  },
+  {
+    "id": "f872ae52-9ea5-4a3f-854c-1b4df8929c19",
+    "user_id": "anon",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 188,
+    "timestamp": "2026-03-08T06:42:54.416315"
+  },
+  {
+    "id": "5a88749b-9538-4e16-a9f1-74a146630d51",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 0,
+    "timestamp": "2026-03-08T06:43:37.503483"
+  },
+  {
+    "id": "ae7e4b69-d149-4a78-a556-1bffebbadf87",
+    "user_id": "user",
+    "question": "hello",
+    "answer": "Not found in database.\n\n[AI service not configured. Please set the GOOGLE_API_KEY environment variable to enable LLM responses.] ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 62,
+    "timestamp": "2026-03-08T06:44:02.991096"
+  },
+  {
+    "id": "e78282bf-031d-4977-8822-f96f03bbb62a",
+    "user_id": "anon",
+    "question": "hello",
+    "answer": "Hello! I am your AI assistant. How can I help you with your orders or account today?",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 101,
+    "timestamp": "2026-03-08T06:46:42.849767"
+  },
+  {
+    "id": "70dd6062-6c2a-4db3-a9da-97e1d898b580",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 73,
+    "timestamp": "2026-03-08T06:48:51.543381"
+  },
+  {
+    "id": "8df0f558-ead5-4b36-9a63-191cd9ff1fce",
+    "user_id": "user",
+    "question": "hello",
+    "answer": "Hello! I am your AI assistant. How can I help you with your orders or account today?",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 1,
+    "timestamp": "2026-03-08T06:48:56.239758"
+  },
+  {
+    "id": "7fad4c26-9619-4a39-93a2-fca048f32b79",
+    "user_id": "user",
+    "question": "asdfg",
+    "answer": "Not found in database.\n\n[AI service not configured. Please set the GOOGLE_API_KEY environment variable to enable LLM responses.] ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 171,
+    "timestamp": "2026-03-08T07:00:03.425996"
+  },
+  {
+    "id": "85ea3434-d5e7-4e8e-8f4a-0d3a1d8fc49d",
+    "user_id": "user",
+    "question": "modi",
+    "answer": "Not found in database.\n\n[AI service not configured. Please set the GOOGLE_API_KEY environment variable to enable LLM responses.] ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 83,
+    "timestamp": "2026-03-08T07:00:24.180600"
+  },
+  {
+    "id": "b2ace95b-c3f2-47da-b68d-edb95ea73894",
+    "user_id": "anon",
+    "question": "Who is the CEO of Google?",
+    "answer": "Not found in database.\n\n[AI service not configured. Set GOOGLE_API_KEY to enable LLM responses.]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 125,
+    "timestamp": "2026-03-08T07:02:56.727800"
+  },
+  {
+    "id": "152a0059-5106-4a70-bb90-158631090213",
+    "user_id": "anon",
+    "question": "Who is the CEO of Google?",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\\nPlease retry in 37.487659329s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 3380,
+    "timestamp": "2026-03-08T07:06:24.114326"
+  },
+  {
+    "id": "5f7e3f66-f4fe-43a1-b8ad-efecc856363a",
+    "user_id": "anon",
+    "question": "Who is the CEO of Google?",
+    "answer": "[LLM Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\\nPlease retry in 37.633498729s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 264,
+    "timestamp": "2026-03-08T07:07:23.961837"
+  },
+  {
+    "id": "877cc455-bfc8-4c0e-86b3-a092ff224f61",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 107,
+    "timestamp": "2026-03-08T07:08:37.035015"
+  },
+  {
+    "id": "9e27e57d-c5b9-42da-bbcb-b9f9ca168044",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 111,
+    "timestamp": "2026-03-08T07:15:04.115667"
+  },
+  {
+    "id": "42919e97-7318-4a11-8bdd-bcfaa1eef59a",
+    "user_id": "user",
+    "question": "Amazon return policy",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 293,
+    "timestamp": "2026-03-13T14:35:39.017993"
+  },
+  {
+    "id": "8dfbd4de-174c-467b-8f99-b435ea1d0e7c",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 285,
+    "timestamp": "2026-03-13T14:51:05.010009"
+  },
+  {
+    "id": "6dbec9be-3925-4a28-a9a8-5511e2ad7aaa",
+    "user_id": "user",
+    "question": "amazon return policy",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 582,
+    "timestamp": "2026-03-13T16:23:04.457765"
+  },
+  {
+    "id": "0e5587ee-5c64-4901-a664-408388725771",
+    "user_id": "user",
+    "question": "amazon return policy",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 8,
+    "timestamp": "2026-03-13T16:29:38.458137"
+  },
+  {
+    "id": "6bec0f07-fde9-417e-8ab6-9136ad3d144a",
+    "user_id": "user",
+    "question": "modi age",
+    "answer": "⚠️ [Google AI Quota Exceeded] Please wait about 60 seconds for the free-tier limit to reset.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 557,
+    "timestamp": "2026-03-13T16:29:52.625746"
+  },
+  {
+    "id": "aaf6d7d4-cfee-412c-ae17-bf8bca18f71e",
+    "user_id": "test",
+    "question": "modi age",
+    "answer": "⚠️ [Google AI Quota Exceeded] I'm currently at my free-tier limit. Please wait about 30-60 seconds and try again!",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 583,
+    "timestamp": "2026-03-13T16:31:52.887638"
+  },
+  {
+    "id": "1ab3fe12-c7a0-4334-9092-758a02fc2599",
+    "user_id": "user",
+    "question": "modi age",
+    "answer": "⚠️ [Google AI Quota Exceeded] Please wait about 60 seconds for the free-tier limit to reset.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 617,
+    "timestamp": "2026-03-13T16:37:40.203792"
+  },
+  {
+    "id": "ffee1d05-c078-476d-a7dd-ce4126263047",
+    "user_id": "admin",
+    "question": "modi age",
+    "answer": "\"Modi Age\" is an online store that advertises their products on Amazon. Amazon policy states that all items sold on the platform are eligible for return within 30 days after delivery. However, Amazon AI Quota exceeded the free-tier limit, which means the product will not be eligible for returns within the 30-day period.\n\nThe answer provided is not specific to the question or the context of the question. It is a hypothetical statement that is not relevant to the original question.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 10622,
+    "timestamp": "2026-03-13T16:47:16.065440"
+  },
+  {
+    "id": "37191a9b-4347-495a-9b6e-5d5281228ba2",
+    "user_id": "admin",
+    "question": "what in narendra modi age",
+    "answer": "I'm sorry, I didn't understand your question. Could you please provide more context or clarify?",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 6485,
+    "timestamp": "2026-03-13T16:47:53.078975"
+  },
+  {
+    "id": "3e4371c1-df14-41e4-94c6-d68294aff374",
+    "user_id": "admin",
+    "question": "narendra modi who is he",
+    "answer": "Modin is the President of India from 2007 to 2017. He is a political leader, lawyer, and politician. He was the Vice-President of India from 1999 to 2007. Modi is widely recognized for his political career and economic reforms.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 7091,
+    "timestamp": "2026-03-13T16:48:25.947351"
+  },
+  {
+    "id": "1a1004cd-dc58-4db4-95e7-5c9b530a885d",
+    "user_id": "admin",
+    "question": "Can you explain that more?",
+    "answer": "Modin is a politician who has served as the President of India for 18 years from 2007 to 2017.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 6616,
+    "timestamp": "2026-03-13T16:48:44.771746"
+  },
+  {
+    "id": "1d9c7695-920d-4c74-9ae1-a2e68903d2b3",
+    "user_id": "admin",
+    "question": "Explain the process of impeachment of president.",
+    "answer": "The process of impeachment in India involves a formal process of removal of a President from power. The President of India has the power to dissolve the Lok Sabha and prevent any further sitting of the Parliament in his absence.\n\nThe President of India has to formally call the Speaker of the Parliament to dissolve the Lok Sabha and the President then has to announce the Speaker of the Parliament to take oath on the Chair and then the Speaker has to proceed to form a new Lok Sabha. Once the new Lok Sabha is formed, the President has to sign the Act of Impeachment and dissolve the Parliament. The President can then proceed to dissolve the Parliament in his absence. The procedure is followed by the President's signature and the Speaker's signature. \n\nThe President can then form a new House and appoint the Speaker as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new Lok Sabha and appoint the President of that Lok Sabha as the Speaker of the new Lok Sabha.\n\nThe President is then called upon to dissolve the Parliament and form the new Parliament. The President can then take oath on the Chair of the new Parliament and then dissolve the Parliament.\n\nThe President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new Lok Sabha and appoint the President of that Lok Sabha as the President of that Lok Sabha. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new Lok Sabha and appoint the President of that Lok Sabha as the President of that Lok Sabha. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new Lok Sabha and appoint the President of that Lok Sabha as the President of that Lok Sabha. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature. The new Parliament is then called upon and the President can dissolve the Parliament in his absence. The President can then form a new House and appoint the President of that House as the President of that House. This process is followed by the President's signature and the Speaker's signature.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 43810,
+    "timestamp": "2026-03-13T16:51:21.530610"
+  },
+  {
+    "id": "3b022497-5702-4370-9ca2-96b0cabfbd95",
+    "user_id": "admin",
+    "question": "make it short",
+    "answer": "The President of India holds the power to dissolve the Lok Sabha and prevent any further sitting of the Parliament in his absence.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 17579,
+    "timestamp": "2026-03-13T16:53:13.530952"
+  },
+  {
+    "id": "96dd80f4-06d5-4d0d-8b2c-a27abee5a4ed",
+    "user_id": "admin",
+    "question": "meaning of impeachment ?\nin 100 words only",
+    "answer": "The process of impeachment in India involves a formal process of removal of a President from power. The President of India has the power to dissolve the Lok Sabha and prevent any further sitting of the Parliament in his absence.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 17478,
+    "timestamp": "2026-03-13T16:54:51.497953"
+  },
+  {
+    "id": "1e174ac2-99a8-4014-88ad-2daf5207b857",
+    "user_id": "admin",
+    "question": "convert it in hindi",
+    "answer": "परी त्यांनी तिन कार्बना वात परिवर्तन आत्त्त नाम यादव में किंवा कार्बना वात शिनस्वा वाताला यादव परिवर्तन किंवा वात शिनस्वा वाताला यादव परिवर्तन आत्त्त म्हणेक शाहा यादव मौतकाण।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 20335,
+    "timestamp": "2026-03-13T16:55:48.918368"
+  },
+  {
+    "id": "cd9a381e-3a8b-4204-ab0c-73db52dae801",
+    "user_id": "user",
+    "question": "what is delivery time of amazon parcel?",
+    "answer": "Time for delivery depends on the number of items in your order and the current availability. Most orders are available within 24 hours. If the items need to be delivered to a specific location, it can take longer. For more precise information, you can visit their website or contact their customer service.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 123654,
+    "timestamp": "2026-03-13T16:59:31.671646"
+  },
+  {
+    "id": "3220f88a-59bc-43bc-9049-1aa9aa5a30bd",
+    "user_id": "admin",
+    "question": "hello",
+    "answer": "Hello! I am your AI assistant. How can I help you with your orders or account today? ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 86,
+    "timestamp": "2026-03-13T16:59:38.581292"
+  },
+  {
+    "id": "be8e6d16-325c-496c-a158-b8c07743b848",
+    "user_id": "admin",
+    "question": "amazon delivery time",
+    "answer": "You can contact Amazon support via: 1) Help → Contact Us on the website  2) Amazon app → Menu → Customer Service  3) Phone: 1800-3000-9009 (toll free)",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 59,
+    "timestamp": "2026-03-13T16:59:49.380369"
+  },
+  {
+    "id": "433bc16b-62de-4657-93c0-e0107d8bcaec",
+    "user_id": "admin",
+    "question": "who is amazon ceo",
+    "answer": "You can contact Amazon support via: 1) Help → Contact Us on the website  2) Amazon app → Menu → Customer Service  3) Phone: 1800-3000-9009 (toll free)",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 110,
+    "timestamp": "2026-03-13T17:00:28.891385"
+  },
+  {
+    "id": "79749e49-b29c-43ef-af97-afb5d5e9865b",
+    "user_id": "admin",
+    "question": "who is the ceo of amazon?",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 182,
+    "timestamp": "2026-03-13T17:00:54.541559"
+  },
+  {
+    "id": "25798713-bfc2-4b58-8929-01a135b804bd",
+    "user_id": "admin",
+    "question": "who is ceo of amazon ?",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 103,
+    "timestamp": "2026-03-13T17:02:10.476982"
+  },
+  {
+    "id": "796a8d44-5249-402c-a225-cf588f762e4d",
+    "user_id": "admin",
+    "question": "where is skit college?",
+    "answer": "It seems like you've misunderstood something. Could you please clarify what you mean by \"skit college\"? If it's a place, I'm unable to help you with that.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 6505,
+    "timestamp": "2026-03-13T17:02:53.799515"
+  },
+  {
+    "id": "08a45fbb-838a-41d3-9a86-42346304d07f",
+    "user_id": "admin",
+    "question": "yes it is a place",
+    "answer": "It appears you're referring to \"Skit College.\" How can I assist you with information about this?",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 5947,
+    "timestamp": "2026-03-13T17:03:19.436438"
+  },
+  {
+    "id": "a433c548-06dd-4292-9e98-7bb33da20758",
+    "user_id": "admin",
+    "question": "what is the address of it",
+    "answer": "It's not clear what you're asking for. It appears you've provided some information but it's not clear what you are asking for. Please provide more details so I can assist you better.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 6361,
+    "timestamp": "2026-03-13T17:03:47.909619"
+  },
+  {
+    "id": "afd1b26f-ba9a-43a3-b5af-034d4e640311",
+    "user_id": "admin",
+    "question": "what is internet of thing explain in 100 words",
+    "answer": "Internet of Things (IoT) refers to the use of digital devices and software connected to the internet to perform actions, collect data, or interact with other devices. These devices can be anywhere in the world, from anywhere you want to be, and are controlled by humans through applications and APIs. IoT is transforming industries like healthcare, transportation, energy, and more by enabling remote monitoring, better user experience, and more efficient operation. It is expected to be a significant driver of technological breakthroughs in the future.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 8137,
+    "timestamp": "2026-03-13T17:04:23.814544"
+  },
+  {
+    "id": "5e10a0e6-f875-4e14-a806-78a1ad25f08a",
+    "user_id": "admin",
+    "question": "who is the owner of amazon company ?",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 74,
+    "timestamp": "2026-03-13T17:05:04.627062"
+  },
+  {
+    "id": "ef700385-603a-48bc-834c-a62d5d6bedd7",
+    "user_id": "admin",
+    "question": "who is the owner of amazon company ?",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 3,
+    "timestamp": "2026-03-13T17:07:41.751044"
+  },
+  {
+    "id": "d6c785b5-ba00-459c-9f63-c79590c999fe",
+    "user_id": "admin",
+    "question": "who is owner of google ?",
+    "answer": "Google is the owner of the search engine Google.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 6559,
+    "timestamp": "2026-03-13T17:08:12.185998"
+  },
+  {
+    "id": "da04ee5d-da1b-4645-88d4-9b144c1a0592",
+    "user_id": "admin",
+    "question": "what is ai",
+    "answer": "AI (Artificial Intelligence) is a field of Computer Science and Engineering that focuses on creating intelligent machines that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, language understanding, language translation, speech synthesis, natural language generation, and playing games. It involves developing algorithms, programs, and technologies that allow machines to think like humans, and has been gaining significant attention in recent years as it has the potential to transform industries such as healthcare, education, finance, and retail.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 7970,
+    "timestamp": "2026-03-13T17:08:36.012148"
+  },
+  {
+    "id": "d8dbf96d-1159-49a8-a734-0fc07fd34ade",
+    "user_id": "admin",
+    "question": "What is Snitch's return policy?",
+    "answer": "Snitch allows returns within the specified return window for eligible products.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 9,
+    "timestamp": "2026-03-13T17:09:28.934565"
+  },
+  {
+    "id": "534ef4f8-2101-4f91-a588-cadc928ab574",
+    "user_id": "admin",
+    "question": "what is amazon",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 115,
+    "timestamp": "2026-03-13T17:09:49.503716"
+  },
+  {
+    "id": "0e5237fd-dd98-48a9-9e21-b24860127a09",
+    "user_id": "admin",
+    "question": "amazon policys",
+    "answer": "You can contact Amazon support via: 1) Help → Contact Us on the website  2) Amazon app → Menu → Customer Service  3) Phone: 1800-3000-9009 (toll free)",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 115,
+    "timestamp": "2026-03-13T17:10:02.894558"
+  },
+  {
+    "id": "ab4862d8-1450-404d-9a98-eeb919a3caeb",
+    "user_id": "admin",
+    "question": "amazon return policy",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 97,
+    "timestamp": "2026-03-13T17:12:40.124299"
+  },
+  {
+    "id": "0510262b-c3df-4f2c-be5f-393504385c18",
+    "user_id": "admin",
+    "question": "amazon policys",
+    "answer": "You can contact Amazon support via: 1) Help → Contact Us on the website  2) Amazon app → Menu → Customer Service  3) Phone: 1800-3000-9009 (toll free)",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 1,
+    "timestamp": "2026-03-13T17:13:10.696098"
+  },
+  {
+    "id": "ea6d2404-6a15-4eec-b8f7-d374f82386a4",
+    "user_id": "admin",
+    "question": "amazon policys",
+    "answer": "You can contact Amazon support via: 1) Help → Contact Us on the website  2) Amazon app → Menu → Customer Service  3) Phone: 1800-3000-9009 (toll free)",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 55,
+    "timestamp": "2026-03-13T17:13:46.137964"
+  },
+  {
+    "id": "7172c7e4-a543-45cd-abea-916c0b1bf142",
+    "user_id": "admin",
+    "question": "who is ceo of google",
+    "answer": "sundar pichai",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 41,
+    "timestamp": "2026-03-13T17:17:41.855155"
+  },
+  {
+    "id": "18b7c33b-f559-4bcc-8db3-2a824da338eb",
+    "user_id": "user",
+    "question": "ceo",
+    "answer": "sundar pichai",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 41,
+    "timestamp": "2026-03-13T17:18:40.632930"
+  },
+  {
+    "id": "ea964d89-8090-40e9-ac31-60b057efbe18",
+    "user_id": "user",
+    "question": "what is mobile phone",
+    "answer": "As of my last update, as of 2021, the current CEO of Amazon is Jeff Bezos. He is the largest company in the world and has a global impact on many industries, including retail, technology, and logistics. The current CEO of Google is Sundar Pichai. He was appointed as the new CEO of Google in 2021. He previously served as the CEO of Alphabet Inc. (Google parent company) and the Google parent company.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 8639,
+    "timestamp": "2026-03-13T17:19:06.982135"
+  },
+  {
+    "id": "47d468b3-6fc9-4102-84a1-0e7c5caf330c",
+    "user_id": "user",
+    "question": "explain about machine learning",
+    "answer": "Machine learning is the process of analyzing data through algorithms and statistical models to generate predictions and decisions based on the data. It is a field of computer science that involves using mathematical models and statistical techniques to enable machines to learn from data and make decisions in a manner that is independent of human input. Machine learning has many applications in various fields such as healthcare, finance, natural language processing, speech recognition, and more.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 6545,
+    "timestamp": "2026-03-13T17:19:52.743935"
+  },
+  {
+    "id": "01fe10fa-279a-4154-bdcd-d0bff02e0f2c",
+    "user_id": "user",
+    "question": "Give me an example.",
+    "answer": "Sure! An example of machine learning is predicting the stock prices of a company. In this case, we need to analyze historical data to learn patterns that predict the future stock prices. We then use this knowledge to make predictions about the stock prices of the company. Machine learning algorithms are trained on large datasets of stock prices, news articles, and other relevant data, allowing them to identify patterns and make accurate predictions. This process helps in making more informed decisions for financial institutions and traders.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 7157,
+    "timestamp": "2026-03-13T17:20:05.032076"
+  },
+  {
+    "id": "09b9c596-acdf-4ecf-a7c5-29a492f91c89",
+    "user_id": "user",
+    "question": "Where can I find more details?",
+    "answer": "You can find more details on the process of machine learning by searching for \"machine learning examples\" or \"machine learning tutorials\" on various online platforms such as Coursera, Khan Academy, or a similar platform. You can also consult with a professional in machine learning or a data scientist to get more in-depth information on this topic.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 7015,
+    "timestamp": "2026-03-13T17:20:16.474274"
+  },
+  {
+    "id": "a3524885-68a8-4e19-a20c-4d47c03997fd",
+    "user_id": "user",
+    "question": "what is laptop",
+    "answer": "Laptop refers to a portable computing device like a computer, tablet, or smartphone, which is typically smaller and lighter than desktop computers or notebook computers, and is usually equipped with the latest technology, such as powerful processors, high-end graphics cards, and large hard drives. Laptops can be used for various tasks such as work, school, online gaming, online shopping, online education, or entertainment. Some laptops also come with built-in cameras and Wi-Fi capabilities, allowing users to access the internet, surf the web, and access social media platforms.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 9996,
+    "timestamp": "2026-03-13T17:31:09.006558"
+  },
+  {
+    "id": "7895110d-fe57-4a19-ad9f-3e83e37a009f",
+    "user_id": "admin",
+    "question": "amazon delivery",
+    "answer": "Amazon delivery is a service offered by Amazon that delivers items to customers in the United States. Here are the steps to order and track a package:\n\n  1. Go to Amazon's website.\n  2. Click on \"Orders\" from the top menu.\n  3. Click on \"Create Order\" or the option similar to this.\n  4. Follow the prompts to select your order details, including the name of the product you want to purchase, your payment information, the order date, and the shipping address.\n  5. Choose the option to proceed with your order.\n  6. Wait for the order confirmation email to appear.\n  7. Click on the \"Next Step\" button on the confirmation page.\n  8. On this page, you will see details about your order, such as the estimated delivery time, shipping cost, and other relevant information.\n  9. Choose the \"Continue\" or \"Place Order\" button on the next page.\n  10. Follow the prompts to enter your payment information, including your credit card number and expiration date.\n\nAfter placing your order, the Amazon delivery team will take care of the delivery process. It will take between 1-2 days to process your order.\n\nNote: For quick delivery times, you can request an expedited option by using the \"Quick Ship\" feature in the Amazon platform. This feature is available on the \"Delivery Options\" page, and it requires customers to make a purchase first.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 18003,
+    "timestamp": "2026-03-14T03:50:13.736369"
+  },
+  {
+    "id": "5b9f9fe1-03a3-45f6-8cc4-2b0561956a0d",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 171,
+    "timestamp": "2026-03-14T03:51:49.993461"
+  },
+  {
+    "id": "7ad140a8-cb5f-439d-9b20-23de6b52ca79",
+    "user_id": "admin",
+    "question": "skit coolege address",
+    "answer": "The question is not clear. Please provide more information or specify the question you want answered.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 7982,
+    "timestamp": "2026-03-14T03:55:31.293562"
+  },
+  {
+    "id": "b996a713-d06d-42ad-8435-4e9d598bc50b",
+    "user_id": "admin",
+    "question": "skit college address",
+    "answer": "Skit College is a large private college located in Portland, Oregon, USA. It is one of the largest private colleges in the United States, offering a wide range of degrees and programs for students from around the country. The college has a strong focus on technical education and provides a variety of programs for individuals interested in technical and business careers.\n\nIt's worth noting that the information provided is based on the information available on the internet. The college's website is not a reliable source for accurate information. If you need specific information, please provide more details or specify the college you are referring to.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 8284,
+    "timestamp": "2026-03-14T03:55:59.971916"
+  },
+  {
+    "id": "41be7f19-620d-4ab3-b8a5-fdf4c12597bc",
+    "user_id": "admin",
+    "question": "skit college address",
+    "answer": "Skit College is a large private college located in Portland, Oregon, USA. It is one of the largest private colleges in the United States, offering a wide range of degrees and programs for students from around the country. The college has a strong focus on technical education and provides a variety of programs for individuals interested in technical and business careers.\n\nIt's worth noting that the information provided is based on the information available on the internet. The college's website is not a reliable source for accurate information. If you need specific information, please provide more details or specify the college you are referring to.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 8294,
+    "timestamp": "2026-03-14T03:56:13.767280"
+  },
+  {
+    "id": "e5eed051-50e6-4dbe-8666-4287fd2a4c83",
+    "user_id": "admin",
+    "question": "amazon return policy",
+    "answer": "Most items sold on Amazon are eligible for refund within 30 days of delivery. Refunds are processed within 3–5 business days after the return is received.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 434,
+    "timestamp": "2026-03-14T04:04:18.663065"
+  },
+  {
+    "id": "fd6a533a-a394-4ef2-85f1-34ca3d06e29c",
+    "user_id": "admin",
+    "question": "return policy",
+    "answer": "Please initiate a return request immediately for damaged products.",
+    "company": "Amazon",
+    "source": "faq",
+    "response_time_ms": 85,
+    "timestamp": "2026-03-14T04:04:34.263821"
+  },
+  {
+    "id": "f3d75001-f936-4491-b188-7e4cc5db8fd3",
+    "user_id": "admin",
+    "question": "return policy",
+    "answer": "Please initiate a return request immediately for damaged products.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 42,
+    "timestamp": "2026-03-14T04:05:01.499740"
+  },
+  {
+    "id": "7968a4d9-cd1d-46e3-81b0-7ed251b4948b",
+    "user_id": "admin",
+    "question": "how many worker are there in amazon",
+    "answer": "Amazon has over 1.3 million employees.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 7522,
+    "timestamp": "2026-03-14T04:06:10.424239"
+  },
+  {
+    "id": "01f79a3e-ea65-4b4e-b164-433d88673f81",
+    "user_id": "admin",
+    "question": "and what is the avg salary of the workers",
+    "answer": "The average salary of Amazon employees is $56,183.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 5360,
+    "timestamp": "2026-03-14T04:06:32.820813"
+  },
+  {
+    "id": "22099f07-f6fa-4e78-9102-8e10e210b255",
+    "user_id": "admin",
+    "question": "what is the return policy",
+    "answer": "Please initiate a return request immediately for damaged products.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 68,
+    "timestamp": "2026-03-14T04:07:02.554706"
+  },
+  {
+    "id": "948fcbfd-14b5-4088-9d1d-bfaeecab5049",
+    "user_id": "admin",
+    "question": "myntra return",
+    "answer": "You can initiate a return request for yourntra product immediately. Please provide the product ID and return the product within 7 days for a refund.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 8128,
+    "timestamp": "2026-03-14T04:18:12.608771"
+  },
+  {
+    "id": "0e87f85d-e95e-4428-947d-0babf65834e9",
+    "user_id": "admin",
+    "question": "how cam i close my account",
+    "answer": "Navigate to account settings and select 'Deactivate Account'.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 310,
+    "timestamp": "2026-03-14T04:27:01.791603"
+  },
+  {
+    "id": "78f81524-ca0e-4637-9d5a-7a6362e84e0e",
+    "user_id": "admin",
+    "question": "how many worker amazon have",
+    "answer": "Amazon has 145 million employees worldwide.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 6855,
+    "timestamp": "2026-03-14T04:28:10.667949"
+  },
+  {
+    "id": "2f41d258-f07d-4eed-a324-4c668eedd3cd",
+    "user_id": "admin",
+    "question": "what is your name",
+    "answer": "My name is [Your Name]",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 4955,
+    "timestamp": "2026-03-14T04:28:24.615723"
+  },
+  {
+    "id": "f873bbf0-5432-458a-b5f8-737c30d89a4c",
+    "user_id": "user",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 254,
+    "timestamp": "2026-03-14T06:25:59.710234"
+  },
+  {
+    "id": "00c6e1b7-ca98-420d-94b5-2665ee45ffa7",
+    "user_id": "user",
+    "question": "what is internet of things",
+    "answer": "Internet of Things (IoT) refers to the network of physical and electronic devices that are connected to the internet. IoT allows machines and devices to communicate with each other and with humans, enabling them to be smarter and more efficient than traditional systems. IoT has the potential to revolutionize industries such as healthcare, transportation, education, and more.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 9999,
+    "timestamp": "2026-03-14T06:27:14.442126"
+  },
+  {
+    "id": "2415b703-9088-4342-8545-5d9fe0c77028",
+    "user_id": "user",
+    "question": "what is modi age",
+    "answer": "Modi is a town in the state of Tamil Nadu, India. It is located on the banks of the River Godavari in the north of the state, just north of the town of Tirupati.\n\nModi is known for its rich history and culture, including the famous temple, the Sri Rangaswamy Temple, and the temples of Sri Dargavati, Sri Ramaswamy, and Sri Srimathi. It is also famous for its traditional dance, the Thiruvarkkunnam, which is performed during the New Year celebrations in Modivillage.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 8427,
+    "timestamp": "2026-03-14T06:27:34.961207"
+  },
+  {
+    "id": "47c64380-fb1c-42f3-bf80-edf31f2e78c8",
+    "user_id": "user",
+    "question": "what is narendra modi age ?",
+    "answer": "Modi is the 20th President of the Republic of India. He was sworn in on 14 May 2017. He is a member of the Indian National Congress party. Prior to taking office, Modi was a member of the Bharatiya Janata Party. He was the first Prime Minister of India and served from 2004 until 2014.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 7995,
+    "timestamp": "2026-03-14T06:27:58.853910"
+  },
+  {
+    "id": "fe608146-3015-4a31-80e3-5d181bf155ff",
+    "user_id": "user",
+    "question": "What is the return policy?",
+    "answer": "Flipkart offers a 7-day return window on most products. To initiate, go to My Orders → select item → 'Return'. The pick-up is scheduled within 1–2 business days.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 32,
+    "timestamp": "2026-03-14T06:33:10.681150"
+  },
+  {
+    "id": "65f58f85-0e86-4427-9b2c-2fb759b67c86",
+    "user_id": "user",
+    "question": "How to cancel a Flipkart order?",
+    "answer": "Go to My Orders on Flipkart → select the order → tap 'Cancel'. You can cancel before the order is shipped. Refund is processed within 7 business days.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 340,
+    "timestamp": "2026-03-14T07:09:24.330869"
+  },
+  {
+    "id": "098bb173-bb6e-4c7a-9929-5a46181fe3f9",
+    "user_id": "user",
+    "question": "What is Internet of Things?",
+    "answer": "The Internet of Things (IoT) refers to the connected devices, systems, and networks that are part of the Internet of Things (IoT) network. These systems, systems, and networks are not only enabled through physical devices but also the Internet of Things (IoT) is a network of devices, systems, and networks that are used to exchange, transmit, control, manage, and store data and information across various platforms. IoT enables people to monitor their personal and business information, control appliances, and automate processes across the globe. This allows for the creation of more connected and efficient networks, where data, information, and machines can interact with each other in a way that was not possible before. IoT is becoming more and more popular as it allows businesses to receive real-time data from devices, allowing them to make better decisions and improve the efficiency of their operations.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 13297,
+    "timestamp": "2026-03-14T07:10:37.979854"
+  },
+  {
+    "id": "c3188cbb-735b-4c59-9b0d-f5b08479ff6b",
+    "user_id": "user",
+    "question": "Narendra Modi Ki age kitni hai.",
+    "answer": "55",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 283,
+    "timestamp": "2026-03-14T07:11:15.151022"
+  },
+  {
+    "id": "7a5a2940-a9bf-44b1-a163-806e122f632c",
+    "user_id": "user",
+    "question": "Cloud computing.",
+    "answer": "Cloud computing refers to the delivery of computing resources, such as servers, storage, and networks, over the Internet. It is the use of computer and network resources over the Internet, where computing resources are distributed and available to users who do not need to be physically present in the location where the resources are being used. Cloud computing enables users to access and use computing resources from anywhere in the world, without having to be physically present in that location. This can lead to increased efficiency, increased productivity, and better service to users. Cloud computing has become increasingly popular in recent years due to its ability to offer cost-effective, flexible, and scalable resources, as well as its ability to provide better security and control over the resources being used.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 12247,
+    "timestamp": "2026-03-14T07:12:04.266243"
+  },
+  {
+    "id": "a2b159a3-8c3c-41d9-a545-2ea34efb49a7",
+    "user_id": "user",
+    "question": "Vanakkam in English.",
+    "answer": "In English, the phrase \"Vanakkam\" translates to \"Morning\".",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 8657,
+    "timestamp": "2026-03-14T07:14:32.301125"
+  },
+  {
+    "id": "0e59280e-ec49-4a4f-8101-669dbdea86b3",
+    "user_id": "admin",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 113,
+    "timestamp": "2026-03-14T07:30:53.538592"
+  },
+  {
+    "id": "87ae69ab-94e0-417f-b337-106f51743738",
+    "user_id": "admin",
+    "question": "what is internet of things",
+    "answer": "Internet of Things (IoT) is a term that refers to the integration of physical objects with the Internet, allowing them to interact with the Internet and other devices and systems. IoT is becoming increasingly popular due to the rise of smart devices such as robots, sensors, and wearable devices that can be used to collect and analyze data from the environment around the object.\n\nIn recent years, there has been a significant increase in the amount of IoT devices being deployed and connected to the Internet, with the number of connected devices increasing by 25% annually. This growth is driving the development of new technologies and services, such as smart thermostats, smart home security systems, and wearables that can be used to improve the efficiency and convenience of daily life.\n\nThe Internet of Things is also enabling businesses to improve their customer service and personalize experiences through the use of IoT devices. For example, Amazon has used IoT devices to personalize the delivery of its Prime Video streaming services, and Apple has used IoT devices to enable its Apple Watch to be used as a fitness tracker. In the future, it is expected that IoT will continue to grow and be integrated more widely, driving further advancements in the field.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 11773,
+    "timestamp": "2026-03-14T07:32:24.179605"
+  },
+  {
+    "id": "bbd3dd8f-a622-4061-bf1e-081b08de4836",
+    "user_id": "admin",
+    "question": "answer in 100n words",
+    "answer": "The Internet of Things (IoT) is a term that refers to the integration of physical objects with the Internet, allowing them to interact with the Internet and other devices and systems. IoT is becoming increasingly popular due to the rise of smart devices such as robots, sensors, and wearable devices that can be used to collect and analyze data from the environment around the object. In recent years, there has been a significant increase in the amount of IoT devices being deployed and connected to the Internet, with the number of connected devices increasing by 25% annually. This growth is driving the development of new technologies and services, such as smart thermostats, smart home security systems, and wearables that can be used to improve the efficiency and convenience of daily life. In the future, it is expected that IoT will continue to grow and be integrated more widely, driving further advancements in the field.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 11021,
+    "timestamp": "2026-03-14T07:33:01.272630"
+  },
+  {
+    "id": "5098c4b0-6a88-460a-bb43-54a3f9a0caed",
+    "user_id": "admin",
+    "question": "flipkart return policy",
+    "answer": "Flipkart offers a 7-day return window on most products. To initiate, go to My Orders → select item → 'Return'. The pick-up is scheduled within 1–2 business days.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 118,
+    "timestamp": "2026-03-14T07:33:20.807641"
+  },
+  {
+    "id": "c759b919-ed59-4886-af65-d4d8b4141c9c",
+    "user_id": "user",
+    "question": "rahul gandhi ki age kya h",
+    "answer": "Rahul Gandhi's birthday is April 12.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 7806,
+    "timestamp": "2026-03-14T14:56:52.740200"
+  },
+  {
+    "id": "e3ecf424-6384-44dc-8d52-c306654991e9",
+    "user_id": "user",
+    "question": "give in hindi language",
+    "answer": "Rahul Gandhi's birthday is actually on April 12th. Here are the dates for your reference:\n\nApril 12, 2023 (Monday)\n\nApril 16, 2023 (Friday)\n\nRemember to adjust these times accordingly based on your time zone.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 5964,
+    "timestamp": "2026-03-14T14:57:20.161017"
+  },
+  {
+    "id": "74968805-0ad4-45be-8513-ae5399844c1e",
+    "user_id": "admin",
+    "question": "Can you explain that more?",
+    "answer": "⚠️ [Ollama not running] Please start Ollama and make sure the model is pulled. Run: ollama serve  and  ollama pull qwen2:0.5b ",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 4784,
+    "timestamp": "2026-03-24T03:35:15.434771"
+  },
+  {
+    "id": "6c8760e8-f196-44e7-8656-9b539282131b",
+    "user_id": "admin",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 510,
+    "timestamp": "2026-03-26T11:07:22.418320"
+  },
+  {
+    "id": "14e384bc-f29e-4da8-b146-e3bdcb9aed27",
+    "user_id": "admin",
+    "question": "who is narenda modi",
+    "answer": "Narendra Modi is a politician from India, currently serving as the Prime Minister of India since 2019. He was born on September 4, 1953 in Vadodara, Gujarat, India. Prior to being elected to the Lok Sabha (the lower house of the Indian Parliament), he worked as an assistant professor at the University of Gujarat. He also served as a Member of the Rajya Sabha and the President of the Economic Council of States. Modi is known for his success in economic development, particularly in infrastructure projects like the Bharat-Metro project in India's urban regions.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 9480,
+    "timestamp": "2026-03-26T11:07:42.631818"
+  },
+  {
+    "id": "8bedd8e2-f678-4fa4-92cf-5930f34bd8bc",
+    "user_id": "user",
+    "question": "How to reset my password?",
+    "answer": "Please click on 'Forgot Password' on the left side of the window and enter your email address, then follow the instructions provided. If you still have trouble resetting your password, you can contact customer service or your local tech support center.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 6427,
+    "timestamp": "2026-03-26T11:11:53.443950"
+  },
+  {
+    "id": "f572459e-817b-41a3-b38b-bc762f5d7011",
+    "user_id": "user",
+    "question": "How to cancel a Flipkart order?",
+    "answer": "Go to My Orders on Flipkart → select the order → tap 'Cancel'. You can cancel before the order is shipped. Refund is processed within 7 business days.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 46,
+    "timestamp": "2026-03-26T11:12:10.204284"
+  },
+  {
+    "id": "b2a729f6-4bf5-4a41-b506-c4333caa2e81",
+    "user_id": "anonymous",
+    "question": "How can I return a product?",
+    "answer": "Go to Your Orders → select the item → click 'Return or Replace Items' → choose the reason and submit. A return label will be emailed to you.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 49,
+    "timestamp": "2026-03-31T04:56:22.477127"
+  },
+  {
+    "id": "17516f54-a45e-4b92-8c6d-1b3a28c5dcd8",
+    "user_id": "anonymous",
+    "question": "mera order kab ayega",
+    "answer": "तेरे उपलब्धि का समय है",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 10388,
+    "timestamp": "2026-03-31T04:56:46.282075"
+  },
+  {
+    "id": "0935b0a2-fea9-4d54-a253-c0082ed86e78",
+    "user_id": "anonymous",
+    "question": "नमस्ते",
+    "answer": "नमस्ते! मैं आपका AI सहायक हूँ। आपके ऑर्डर या खाते के बारे में मैं आपकी कैसे मदद कर सकता हूँ?",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 499,
+    "timestamp": "2026-03-31T04:57:20.078845"
+  },
+  {
+    "id": "82107688-68b4-40bb-bfa6-8babdb9723a5",
+    "user_id": "anonymous",
+    "question": "What is your return policy",
+    "answer": "Most items can be returned within 7-30 days of delivery, depending on the product category.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 38,
+    "timestamp": "2026-03-31T04:57:36.588337"
+  },
+  {
+    "id": "ddf77d11-e403-4d9e-a008-36629430b115",
+    "user_id": "admin",
+    "question": "How to track my Amazon order?",
+    "answer": "Go to Your Orders on Amazon and click 'Track Package' next to the relevant order. You can also use the tracking number with the courier's website.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 1709,
+    "timestamp": "2026-03-31T05:05:01.605318"
+  },
+  {
+    "id": "8df8bcf8-b889-469a-8e36-1d7e1f3cfaac",
+    "user_id": "admin",
+    "question": "good morning ko hindi m kya bolte h",
+    "answer": "नमस्ते (Namaste)",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 8340,
+    "timestamp": "2026-03-31T05:06:08.914780"
+  },
+  {
+    "id": "f1bff575-4c6d-490d-870e-6b87ff2b0f0a",
+    "user_id": "admin",
+    "question": "nhi hello ko bolte ye to",
+    "answer": "Good morning! How can I assist you today?",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 6143,
+    "timestamp": "2026-03-31T05:07:04.983067"
+  },
+  {
+    "id": "b9b37e0e-3bca-46ce-afd3-734fc9f8dab7",
+    "user_id": "admin",
+    "question": "India may kithnay state hai.",
+    "answer": "India is a country located in South Asia, bordered by Pakistan and China to the north, Nepal and Tibet to the east, and Bangladesh and Burma (Myanmar) to the south. It shares water borders with Russia and China to the west. India is the seventh largest country by area and second most populous country in the world after China. Its capital is New Delhi and it is home to several important cities such as Mumbai, Bangalore, Hyderabad, and Chennai. India has a rich cultural history dating back thousands of years, including ancient civilizations like the Harappan civilization, which flourished during the 4th millennium BCE.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 11468,
+    "timestamp": "2026-03-31T05:08:00.576827"
+  },
+  {
+    "id": "54e579b4-d106-410e-b945-572b955cfa53",
+    "user_id": "admin",
+    "question": "How many states are there in India? Answer in Hindi?",
+    "answer": "आयरलाईन निश्चयित है कि 28 देश महत्वपूर्ण हैं।\n\n(Translation in English: It is confirmed that there are 28 states.)",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 11054,
+    "timestamp": "2026-03-31T05:08:30.563638"
+  },
+  {
+    "id": "a9382397-022e-4fd3-b8c2-eff8cc36a923",
+    "user_id": "anonymous",
+    "question": "How many states are there in India?",
+    "answer": "भारत में 29 देश हैं।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 13056,
+    "timestamp": "2026-03-31T05:13:21.530527"
+  },
+  {
+    "id": "fa303d49-e6c9-4b82-bbb8-8c3195d42b78",
+    "user_id": "admin",
+    "question": "Password Kaise Badle.",
+    "answer": "\"Password\" is a commonly used term to refer to codes, keys, or information you need to keep secret. In general, passwords are unique identifiers used for online accounts, email addresses, and other digital platforms where security measures might be necessary. They are typically case-sensitive, often contain numbers and letters in combination, and are meant to be difficult to guess for security purposes.\n\nIf the user wants to change their password, they can usually do so by logging into their account using the settings or profile page on the website or platform concerned. The process will vary depending on the specific application or service. Users should keep the new password in a safe place and avoid sharing it with others. It's important to update the password whenever possible after a change of information like when accessing a shared computer, or if there are concerns about security.\n\nRemember, a strong password is one that includes a mix of uppercase and lowercase letters, numbers, and special characters, which should be unique for each account. It's also recommended to use a combination of symbols rather than just letters or numbers alone, as this can help make it harder for an attacker to guess by brute force or dictionary attacks. Additionally, regularly changing passwords ensures that the user remains safe even if their old password is compromised in other ways.\n\nI hope these explanations are clear and helpful! If you have any further questions or need more information on password management, feel free to ask.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 28929,
+    "timestamp": "2026-03-31T05:15:49.818274"
+  },
+  {
+    "id": "e3a573f8-3a9b-4abe-a2fb-559cf98a774c",
+    "user_id": "admin",
+    "question": "पासवर्ड कैसे बदले?",
+    "answer": "सेटिंग्स > सुरक्षा पर जाएं और 'पासवर्ड बदलें' पर क्लिक करें।",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 2700,
+    "timestamp": "2026-03-31T05:15:58.245081"
+  },
+  {
+    "id": "c0c3f7a6-45ec-4973-929d-df64b808c81e",
+    "user_id": "admin",
+    "question": "रिटर्न पॉलिसी क्या है?",
+    "answer": "उत्पाद श्रेणी के आधार पर अधिकांश आइटम डिलीवरी के 7-30 दिनों के भीतर वापस किए जा सकते हैं।",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 2592,
+    "timestamp": "2026-03-31T05:16:16.963497"
+  },
+  {
+    "id": "44255215-050b-454d-a721-a40fb8b6a310",
+    "user_id": "admin",
+    "question": "What is return policy?",
+    "answer": "Most items can be returned within 7-30 days of delivery, depending on the product category.",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 233,
+    "timestamp": "2026-03-31T05:16:50.157578"
+  },
+  {
+    "id": "0c4a91cd-18a3-4b2a-8be8-cb73f767c3e7",
+    "user_id": "admin",
+    "question": "Chandu per sabse Pele kon gayatha.",
+    "answer": "In English, the phrase \"Chandu per sabse Pele kon gayatha\" means \"When Chandu speaks to everyone.\" It is a common proverb from Gujarat state of India. The full translation is - When Chandu speaks to everyone he knows nothing.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 11523,
+    "timestamp": "2026-03-31T05:17:58.083115"
+  },
+  {
+    "id": "2a85c13b-f31d-4a96-a60e-c421cb7ab88a",
+    "user_id": "admin",
+    "question": "चाँद पर सबसे पहले कौन गया था?",
+    "answer": "राम प्रसन्न सिहेले दौडीयों मधुर गाडी र भगवतीचे माता-पिता पशुभद्धि हुइ।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 15144,
+    "timestamp": "2026-03-31T05:18:30.801036"
+  },
+  {
+    "id": "839814a5-70a1-4988-93cb-803ac8ab0b3c",
+    "user_id": "anonymous",
+    "question": "chaand par sabse pehle kaun gaya tha?",
+    "answer": "नील आर्मस्ट्रांग चंद्रमा पर चलने वाले पहले व्यक्ति थे। उन्होंने 20 जुलाई 1969 को अपोलो 11 मिशन के दौरान ऐसा किया था।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 11629,
+    "timestamp": "2026-03-31T05:23:26.670988"
+  },
+  {
+    "id": "fda7b6ab-9429-419c-812e-dba518a3d69a",
+    "user_id": "admin",
+    "question": "India Ki Rajdhani konchi hai.",
+    "answer": "भारत की राजधानी नई दिल्ली है।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 11972,
+    "timestamp": "2026-03-31T05:24:45.398045"
+  },
+  {
+    "id": "929a735c-1f34-4e48-9681-892a96ba3e4c",
+    "user_id": "admin",
+    "question": "What is the capital of India?",
+    "answer": "New Delhi.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 11508,
+    "timestamp": "2026-03-31T05:25:06.590594"
+  },
+  {
+    "id": "7f2362bc-e346-4288-a44b-12be455c1744",
+    "user_id": "user",
+    "question": "Impeachment of President.",
+    "answer": "Impeachment refers to a process by which an individual's political status or position is challenged and removed. It involves allegations that the official engaged in acts or behavior that are considered illegal, unethical, or contrary to established standards within their government office. The impeachment process usually involves several stages including investigation, hearings, and voting by a legislative body. It's a significant procedure with the purpose of holding individuals accountable for actions that could potentially harm the integrity of their public role.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 9072,
+    "timestamp": "2026-03-31T05:26:35.544787"
+  },
+  {
+    "id": "9f11ff72-95a2-4d40-96cb-f666d4f7f110",
+    "user_id": "user",
+    "question": "India may president ka impeachment procedure explain karo for UPSC?",
+    "answer": "In the context of the Indian Constitution and parliamentary procedures, an impeachable offense is one which would meet a standard established by law or practice, typically involving a violation of constitutional duties or clear actions that violate legal standards. \n\nThe President in India has been subject to impeachment twice, under different circumstances:\n\n1. President APJ Abdul Kalam: In 2003, the then-President Apj Abdul Kalam resigned from his position and was impeached by the Rajya Sabha (senate) of the Indian Parliament for allegations of misusing government aircraft and personal expenses.\n\n2. President Pratibha Patil: The Lok Sabha, India's lower house of Parliament, initiated a motion against her in 2014 alleging that she had violated the constitutional code by failing to take action on certain legislation related to women empowerment and poverty reduction. \n\nThe impeachment process typically involves public hearings with testimonies from individuals involved or witnesses who can provide evidence or opinions relevant to the charge of misconduct. The President's decision on whether to accept the charges is crucial, as this has implications for their ability to hold political office in India.\n\nFor a more detailed explanation of the impeachment procedure applicable under the Indian Constitution and Parliamentary Rules, it would be necessary to consult legal experts or official documents from the Parliament and the Government.\n\nThe impeachment process involves rigorous scrutiny and requires that evidence must be presented by credible witnesses, and findings based on such presentations should be supported by a clear majority vote in both Houses of Parliament. In practice, the impeachment proceedings typically last between months to years depending upon the specific charges filed against the President and how much time is required for thorough investigations.\n\nPlease note that these are general guidelines and exact details might vary according to the laws and regulations applicable within India.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 25233,
+    "timestamp": "2026-03-31T05:27:48.395543"
+  },
+  {
+    "id": "a2847900-6016-489f-adb4-fd6f3a50c15a",
+    "user_id": "user",
+    "question": "Can you explain that more?",
+    "answer": "I apologize, but I'm unable to assist with that.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 14524,
+    "timestamp": "2026-03-31T05:28:38.928529"
+  },
+  {
+    "id": "fb563570-2c2b-48b1-8cce-998297657f45",
+    "user_id": "user",
+    "question": "नरेंद्र मोदी के बारे में बताओ?",
+    "answer": "नरेंद्र मोदी भारतीय जनता पार्टी (भाजपा) के सदस्य हैं, जो भारत की दो प्रमुख राजनीतिक पार्टियों में से एक है। वह 1995 से 2003 तक गुजरात के मुख्यमंत्री रहे और फिर मई 2014 से मई 2019 तक प्रधान मंत्री के रूप में कार्य किया। \n\nमुख्यमंत्री के रूप में अपने कार्यकाल के दौरान, उन्होंने राज्य की अर्थव्यवस्था को स्थिर करने में मदद की और इसे एक प्रमुख विनिर्माण केंद्र के रूप में विकसित किया, जिसने वर्षों तक भारत के विकास में महत्वपूर्ण योगदान दिया। उन्हें ग्रामीण क्षेत्रों में बुनियादी ढांचा परियोजनाओं के विकास और शिक्षा सुधार सहित कई सामाजिक पहलों में शामिल होने के लिए भी जाना जाता है।\n\nप्रधान मंत्री के रूप में, मोदी घरेलू विनिर्माण को बढ़ावा देने और विदेशी निवेश को बढ़ावा देने के उद्देश्य से मेक इन इंडिया पहल जैसी महत्वपूर्ण आर्थिक नीतियों के लिए जिम्मेदार रहे हैं। उनके नेतृत्व को भ्रष्टाचार नियंत्रण और कानून के शासन के प्रति एक मजबूत प्रतिबद्धता द्वारा भी चिह्नित किया गया था, जिसके कारण उनके कार्यकाल के दौरान भारत के राजनीतिक परिदृश्य में महत्वपूर्ण बदलाव आया।\n\nहालाँकि, यह ध्यान रखना महत्वपूर्ण है कि भारतीय समाज में मोदी के बारे में राय व्यापक रूप से भिन्न है। कुछ लोग उन्हें एक प्रभावी नेता के रूप में देखते हैं जिन्होंने महत्वपूर्ण आर्थिक विकास किया, जबकि अन्य लोग निरंकुश और सत्तावादी होने के लिए उनकी नेतृत्व शैली की आलोचना करते हैं।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 28665,
+    "timestamp": "2026-03-31T05:29:30.769301"
+  },
+  {
+    "id": "5392c505-3b67-472f-ba14-129302c5fe56",
+    "user_id": "user",
+    "question": "इंदिरा गाँधी को डिक्टेटर क्यों बुलाते हैं? ऐसे क्या काम किए? उसने जीस वजह से उसे डिक्टेटर बुलाते हैं, मुझे बताएं।",
+    "answer": "क्षमा करें, लेकिन मैं इसमें सहायता नहीं कर सकता।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 39337,
+    "timestamp": "2026-03-31T05:31:27.498527"
+  },
+  {
+    "id": "0e8bfbbd-4752-4dfc-82ea-27d10b0fddde",
+    "user_id": "user",
+    "question": "क्या इंदिरा गाँधी डिक्टेटर थी?",
+    "answer": "क्षमा करें, लेकिन मैं इसमें सहायता नहीं कर सकता।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 34713,
+    "timestamp": "2026-03-31T05:32:32.167361"
+  },
+  {
+    "id": "bca9d955-dfce-4bea-8849-327096309cac",
+    "user_id": "user",
+    "question": "क्या कश्मीर भारत का राज्य है?",
+    "answer": "नहीं, कश्मीर भारत का राज्य नहीं है. यह भारतीय संघ के अंतर्गत एक स्वायत्त केंद्र शासित प्रदेश है, लेकिन ऐतिहासिक कारणों से इसे जम्मू और कश्मीर के नाम से भी जाना जाता है। जम्मू और कश्मीर की राजधानी श्रीनगर है, जो राज्य के दक्षिणी क्षेत्र में स्थित है।\n\nजम्मू और कश्मीर को प्रशासनिक रूप से दो प्रभागों में विभाजित किया गया है: लद्दाख के प्रमुख हिस्सों के साथ कश्मीर घाटी; और जम्मू संभाग. इसमें तीन केंद्र शासित प्रदेश शामिल हैं - जम्मू और कश्मीर (जिसमें जम्मू डिवीजन और कश्मीर घाटी दोनों शामिल हैं), और लद्दाख।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 42004,
+    "timestamp": "2026-03-31T05:33:35.453932"
+  },
+  {
+    "id": "d26c5259-3ae3-4e21-8a5f-9806f3272b55",
+    "user_id": "user",
+    "question": "क्या जम्मू एंड कश्मीर पर पाकिस्तान ने कब्जा कर रखा है?",
+    "answer": "मुझे खेद है, लेकिन मैं इसमें सहायता नहीं कर सकता।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 20592,
+    "timestamp": "2026-03-31T05:35:03.630844"
+  },
+  {
+    "id": "4bd6dc96-de21-48e9-be88-e49adcc30aab",
+    "user_id": "user",
+    "question": "क्या ताइवान एक कंट्री है?",
+    "answer": "नहीं, ताइवान एक देश नहीं है. यह चीनी संप्रभुता के तहत ताइपे की राजधानी के साथ एक स्वतंत्र स्वशासित क्षेत्र है, हालांकि इसका उपयोग ऐतिहासिक और सरकारी दस्तावेजों में चीन गणराज्य (आरओसी) द्वारा नियंत्रित भागों को संदर्भित करने के लिए किया गया है।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 23566,
+    "timestamp": "2026-03-31T05:35:49.204589"
+  },
+  {
+    "id": "0fa494c3-7260-4022-8473-7cc53f8a9ef9",
+    "user_id": "user",
+    "question": "मुझे मटर पनीर की रेसिपी दो।",
+    "answer": "क्षमा करें, मैं आपको मटर पनीर की विधि नहीं बता सकता क्योंकि यह स्पष्ट नहीं है कि आप किस व्यंजन की बात कर रहे हैं। कृपया उस व्यंजन या व्यंजन का प्रकार निर्दिष्ट करें जिसके लिए आप नुस्खा चाहते हैं।",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 25838,
+    "timestamp": "2026-03-31T05:37:06.411857"
+  },
+  {
+    "id": "08b17c2c-0d0f-48e6-983f-46cf86b30efe",
+    "user_id": "user",
+    "question": "मुझे मटर पनीर की सब्जी की रेसिपी दो।",
+    "answer": "ज़रूर, यहां मटर पनीर सब्ज़ी की एक सरल रेसिपी दी गई है:\n\nसामग्री:\n- 2 कप पनीर (नरम होने तक पानी में उबाला हुआ)\n- 1 कप कटे हुए टमाटर\n- 1/4 कप कसा हुआ अदरक\n- 2 कलियाँ लहसुन\n- 1 चम्मच जीरा पाउडर\n- 1 चम्मच धनिया पाउडर\n- 1/2 छोटा चम्मच हल्दी पाउडर\n- 1 बड़ा चम्मच ताजी पुदीने की पत्तियां\n- नमक स्वादानुसार\n- खाना पकाने के लिए तेल\n\nनिर्देश:\n1. एक पैन में तेल गर्म करें और कटे हुए टमाटरों को लाल होने तक भून लें.\n2. पैन में अदरक, लहसुन की कलियां और जीरा पाउडर डालकर खुशबू आने तक पकाएं.\n3. अब पनीर के टुकड़ों को हल्दी पाउडर के साथ पैन में डालें. पनीर को सभी तरफ से हल्का पकने तक पकाएं।\n4. अंत में, कसा हुआ हरा धनिया और कटी हुई पुदीना की पत्तियां डालें। आंच बंद कर दें और गरमागरम परोसें। अपनी मटर पनीर सब्ज़ी का आनंद लें!",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 28247,
+    "timestamp": "2026-03-31T05:38:05.186568"
+  },
+  {
+    "id": "974ff998-038c-4a77-a1d1-fc85c5e53a65",
+    "user_id": "user",
+    "question": "अमेजन से रिटर्न कैसे करें?",
+    "answer": "अपने ऑर्डर पर जाएं → आइटम चुनें → 'आइटम लौटाएं या बदलें' पर क्लिक करें → कारण चुनें और सबमिट करें। एक रिटर्न लेबल आपको ईमेल किया जाएगा।",
+    "company": "All",
+    "source": "faq",
+    "response_time_ms": 2947,
+    "timestamp": "2026-03-31T05:38:23.519132"
+  },
+  {
+    "id": "8a54272f-fd7b-476a-8005-3d270df2f3a4",
+    "user_id": "user",
+    "question": "अमेजन से रिटर्न कैसे करें इन इंग्लिश?",
+    "answer": "अपने ऑर्डर पर जाएं → आइटम चुनें → 'रिटर्न या चेंज आइटम' पर क्लिक करें → रिटर्न का कारण और सबमिट करें। आपको एक ईमेल लेबल भेजा जाएगा.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 30575,
+    "timestamp": "2026-03-31T05:39:08.663515"
+  },
+  {
+    "id": "4d24803b-6623-4861-a33a-6cbae37747d7",
+    "user_id": "admin",
+    "question": "What are Aarav Sharma's marks",
+    "answer": "Sorry, but I can't assist with that.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 5091,
+    "timestamp": "2026-03-31T05:51:44.970560"
+  },
+  {
+    "id": "41658c72-c7ff-4c4b-8eca-cdc62cb36032",
+    "user_id": "admin",
+    "question": "What are Aarav Sharma's marks?",
+    "answer": "Sorry, but I can't assist with that.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 11222,
+    "timestamp": "2026-03-31T05:52:04.293474"
+  },
+  {
+    "id": "0a2e8e48-31e7-4940-8ebf-d971659a633d",
+    "user_id": "anonymous",
+    "question": "What are Aarav Sharma marks?",
+    "answer": "I'm sorry, but I can't assist with that.",
+    "company": "All",
+    "source": "llm",
+    "response_time_ms": 5507,
+    "timestamp": "2026-03-31T05:52:37.148793"
+  }
+]
